@@ -1,10 +1,16 @@
 # voting-machine-mapping
 
 ## Rationale
-In Texas, elections are administered at the county level. The State of Texas has a pre-approved list of voting machines that can be bought and implemented at each county's discretion. This project aims to highlight regional differences in voting machines across counties in Texas. This will help us:
-- Understand the prevelance of known vulnurabilities (e.g. how many voters are potentially affected by a specific security flaw?)
-- Make recommendations for the security, maintainence, and eventual upgrade of voting machines
-- Prepare voters with hyper-specific sample ballots that match the machine in their county
+
+This project aims to highlight regional differences in voting machines across counties in Texas. It will help us better understand vulnerabilities in various system and the number of voters who could be affected by compromised equipment. 
+
+In Texas, elections are administered at the county level. The State of Texas issues a pre-approved list of voting machines that can be bought and implemented at each county's discretion. 
+
+Over time, equipment is upgraded and replaced by the counties. In order to understand the "inventory" of voting machines, the State conducts an annual survey of the counties.
+
+This data is publicly available, but it is difficult to access. It is published as a PDF.
+
+We will create a dataset of voting equipment and known vulnerabilities. We will also map the data.
 
 ## To Do
 ### Research
