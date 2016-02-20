@@ -2,7 +2,7 @@
 
 ## Rationale
 
-This project aims to highlight regional differences in voting machines across counties in Texas. It will help us better understand vulnerabilities in various system and the number of voters who could be affected by compromised equipment. 
+This project aims to highlight regional differences in voting machines across counties in Texas. It will help us better understand vulnerabilities by location, and the number of voters who could be affected by compromised equipment. 
 
 In Texas, elections are administered at the county level. The State of Texas issues a pre-approved list of voting machines that can be bought and implemented at each county's discretion. 
 
