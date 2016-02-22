@@ -20,7 +20,8 @@ Our data is helpful, but incomplete. We will need help to:
 - Examine the union of existant, known threats and deployed voting machines
 
 ### Data Management
-- Combine voting machine data source with Texas counties shapefile 
+- Combine voting machine data with Texas counties shapefile
+- Set up combined data as a service on ArcGIS.com 
 
 ## Useful Links:
 - [Current Vote Texas webform to educate citizens on voting machine availability by county and use](http://www.votetexas.gov/voting/how/)
