@@ -17,7 +17,10 @@ We will create a dataset of voting equipment and known vulnerabilities. We will 
 Our data is helpful, but incomplete. We will need help to:
 - Determine age of each voting machine and its version
 - Determine which threats exist to currently deployed voting machines
-- Examine the union of existant, known threats and deployed voting machines 
+- Examine the union of existant, known threats and deployed voting machines
+
+### Data Management
+- Combine voting machine data source with Texas counties shapefile 
 
 ## Useful Links:
 - [Current Vote Texas webform to educate citizens on voting machine availability by county and use](http://www.votetexas.gov/voting/how/)
