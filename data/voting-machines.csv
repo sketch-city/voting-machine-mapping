@@ -1,0 +1,1212 @@
+COUNTY,TYPE,VENDOR,MODEL,VERSION,QUANTITY
+ANDERSON,Electronic Ballot Marker,ES&S,AutoMARK Voter Assist Ter minal,1.1,40
+ANDERSON,Optical Scan (not including ADAunits),ES&S,Model 100,5.2.1.0,26
+ANDERSON,Optical Scan (not including ADAunits),ES&S,Model 650,2.1.0.0,1
+ANDERSON,Software,ES&S,Election Reporting Manager (ERM),7.1.2.1,0
+ANDREWS,Electronic Ballot Marker,ES&S,AutoMARK Voter Assist Ter minal,1.1,9
+ANDREWS,Optical Scan (not including ADA units),ES&S,Model 650,2.1.0.0,1
+ANGELINA,DRE (not including ADA units),ES&S,iVotronic,9.1.6.2,133
+ANGELINA,Optical Scan (not including ADAunits),ES&S,Model 100,5.2.1.0,30
+ANGELINA,Software,ES&S,Ballot on Demand (BOD),7.2.0.0,0
+ANGELINA,Software,ES&S,Election Reporting Manager (ERM),7.1.2.1,0
+ANGELINA,Software,ES&S,Unity,3.0.1.1,1
+ARANSAS,DRE (not including ADAunits),Hart,eSlate,4.2.13,16
+ARANSAS,Optical Scan (not including ADA units),Hart,eScan,1.3.14,12
+ARANSAS,Other,Hart,Judges Booth Controller (JBC),4.3.1,0
+ARANSAS,Software,Hart,eCM,1.1.7,0
+ARANSAS,Software,Hart,SERVO,4.2.10,0
+ARANSAS,Software,Hart,Tally,4.3.10,0
+ARCHER,DRE (not including ADA units),Hart,eSlate,4.2.13,42
+ARCHER,Other,Hart,Ballot Now Scanner,0,1
+ARCHER,Other,Hart,Judges Booth Controller (JBC),4.3.1,0
+ARCHER,Software,Hart,Ballot Now,3.3.11,0
+ARCHER,Software,Hart,BOSS,4.3.13,0
+ARCHER,Software,Hart,eCM,1.1.7,0
+ARCHER,Software,Hart,Tally,4.3.10,0
+ARMSTRONG,DRE (not including ADAunits),ES&S,iVotronic,9.1.6.2,10
+ARMSTRONG,Software,ES&S,Unity,3.0.1.1,1
+ATASCOSA,DRE (not including ADAunits),Hart,eSlate,4.2.13,6
+ATASCOSA,Optical Scan (not including ADA units),Hart,eScan,1.3.14,34
+ATASCOSA,Other,Hart,Judges Booth Controller (JBC),4.3.1,0
+ATASCOSA,Software,Hart,eCM,1.1.7,0
+ATASCOSA,Software,Hart,SERVO,4.2.10,0
+ATASCOSA,Software,Hart,Tally,4.3.10,0
+AUSTIN,Electronic Ballot Marker,ES&S,AutoMARK Voter Assist Ter minal,1.1,19
+AUSTIN,Optical Scan (not including ADA units),ES&S,Model 650,2.1.0.0,1
+AUSTIN,Software,ES&S,Election Reporting Manager (ERM),7.1.2.1,0
+BAILEY,Electronic Ballot Marker,ES&S,AutoMARK  Voter Assist Terminal,1.1,7
+BAILEY,Optical  Scan (not including ADAunits),ES&S,Model  100,5.2.1.0,7
+BANDERA,DRE (not including  ADAunits),Hart,eSlate,4.1.3,23
+BANDERA,Software,Hart,Ballot Now,3.2.4,1
+BANDERA,Software,Hart,Ballot Now,3.3.11,0
+BANDERA,Software,Hart,BOSS,4.3.13,0
+BANDERA,Software,Hart,eCM,1.1.7,0
+BANDERA,Software,Hart,SERVO,4.2.10,0
+BANDERA,Software,Hart,Tally,4.3.10,0
+BASTROP,Electronic Ballot Marker,ES&S,AutoMARK  Voter Assist Terminal,1.1,49
+BASTROP,Optical Scan (not including ADAunits),ES&S,Model 650,2.1.0.0,1
+BASTROP,Software,ES&S,Election Reporting Manager (ERM),7.1.2.1,0
+BASTROP,Software,ES&S,Unity,3.0.1.1,1
+BAYLOR,Electronic Ballot Marker,ES&S,AutoMARK Voter Assist Terminal,1.1,5
+BAYLOR,Optical Scan (not including ADAunits),ES&S,Model 100,5.2.1.0,5
+BEE,DRE (not including ADAunits),Hart,eSlate,4.2.13,20
+BEE,Optical Scan (not including ADAunits),Hart,eScan,1.3.14,20
+BEE,Other,Hart,Judges Booth Controller (JBC),4.3.1,0
+BEE,Software,Hart,eCM,1.1.7,0
+BEE,Software,Hart,SERVO,4.2.10,0
+BEE,Software,Hart,Tally,4.3.10,0
+BELL,Electronic Ballot Marker,ES&S,AutoMARK Voter Assist Terminal,1.1,100
+BELL,Optical Scan (not including ADAunits),ES&S,Model 100,5.2.1.0,75
+BELL,Optical Scan (not including ADAunits),ES&S,Model 650,2.1.0.0,2
+BELL,Software,ES&S,AutoMARK Information Management System (AIMS),1.2.18,0
+BELL,Software,ES&S,Ballot Image Manager (BIM),7.2.0.0,0
+BELL,Software,ES&S,Ballot on Demand (BOD),7.2.0.0,0
+BELL,Software,ES&S,Election Data Manager (EDM),7.4.4.0,0
+BELL,Software,ES&S,Election Reporting Manager (ERM),7.1.2.1,0
+BELL,Software,ES&S,Hardware Program Manager (HPM),5.2.4.0,0
+BELL,Software,ES&S,Unity,3.0.1.1,1
+BEXAR,DRE (not including  ADA units),ES&S,iVotronic,9.1.6.2,2717
+BEXAR,Optical  Scan (not including ADA units),ES&S,Model 650,2.1.0.0,2
+BEXAR,Software,ES&S,Data Acquistion Manager (DAM),6.0.0.0,0
+BEXAR,Software,ES&S,Election Data Manager (EDM),7.4.4.0,0
+BEXAR,Software,ES&S,Election Reporting Manager (ERM),7.1.2.1,0
+BEXAR,Software,ES&S,Hardware Program Manager (HPM),5.2.4.0,0
+BEXAR,Software,ES&S,iVotronic Image Manager (iVIM),2.0.1.0,0
+BEXAR,Software,ES&S,Unity,3.0.1.1,1
+BLANCO,Electronic Ballot Marker,ES&S,AutoMARK Voter Assist Terminal,1.1,10
+BLANCO,Optical Scan (not including ADA units),ES&S,Model 650,2.1.0.0,1
+BORDEN,Electronic Ballot Marker,ES&S,AutoMARK Voter Assist Terminal,1.1,8
+BORDEN,Optical Scan (not including ADA units),ES&S,Model 100,5.2.1.0,1
+BOSQUE,Electronic Ballot Marker,ES&S,AutoMARK Voter Assist Terminal,1.1,12
+BOSQUE,Optical Scan (not including ADA units),ES&S,Model 100,5.0.0.0,11
+BOWIE,Electronic Ballot Marker,ES&S,AutoMARK Voter Assist Terminal,1.1,72
+BOWIE,Optical Scan (not including ADAunits),ES&S,Model 650,2.1.0.0,2
+BRAZORIA,DRE (not including ADA units),Hart,eSlate,4.2.13,623
+BRAZORIA,Other,Hart,Judges Booth Controller (JBC),4.3.1,0
+BRAZORIA,Software,Hart,Ballot Now,3.3.11,0
+BRAZORIA,Software,Hart,BOSS,4.3.13,0
+BRAZORIA,Software,Hart,eCM,1.1.7,0
+BRAZORIA,Software,Hart,SERVO,4.2.10,0
+BRAZORIA,Software,Hart,Tally,4.3.10,0
+BRAZOS,DRE (not including ADAunits),Hart,eSlate,4.2.13,356
+BRAZOS,Other,Hart,Ballot Now Scanner,0,1
+BRAZOS,Other,Hart,Judges Booth Controller (JBC),4.3.1,0
+BRAZOS,Software,Hart,Ballot Now,3.3.11,0
+BRAZOS,Software,Hart,BOSS,4.3.13,0
+BRAZOS,Software,Hart,SERVO,4.2.10,0
+BRAZOS,Software,Hart,Tally,4.3.10,0
+BREWSTER,DRE (not including ADAunits),ES&S,iVotronic,9.1.6.2,16
+BREWSTER,Software,ES&S,Election Reporting Manager (ERM),7.1.2.1,0
+BREWSTER,Software,ES&S,Unity,3.0.1.1,1
+BRISCOE,DRE (not including  ADAunits),ES&S,iVotronic,9.1.6.2,3
+BRISCOE,Software,ES&S,Election Reporting  Manager (ERM),7.1.2.1,0
+BRISCOE,Software,ES&S,Unity,3.0.1.1,1
+BROOKS,DRE  (not including  ADAunits),Hart,eSlate,6.2.1,11
+BROOKS,Optical  Scan (not including  ADAunits),Hart,eScan,1.2.0,10
+BROOKS,Other,Hart,Judges Booth  Controller (JBC),4.1.3,0
+BROOKS,Software,Hart,eCM,1.1.7,0
+BROOKS,Software,Hart,SERVO,4.1.6,0
+BROOKS,Software,Hart,Tally,4.2.8,0
+BROWN,Electronic Ballot Marker,ES&S,AutoMARK  Voter Assist Terminal,1.1,20
+BROWN,Optical  Scan (not including ADAunits),ES&S,Model  100,5.2.1.0,28
+BROWN,Software,ES&S,Election Reporting Manager (ERM),7.1.2.1,0
+BROWN,Software,ES&S,Unity,3.0.1.1,1
+BURLESON,DRE (not including  ADAunits),Hart,eSlate,4.2.13,32
+BURLESON,Optical  Scan (not including ADAunits),Hart,eScan,1.3.14,1
+BURLESON,Other,Hart,Judges Booth Controller (JBC),4.3.1,0
+BURLESON,Software,Hart,Tally,4.3.10,0
+BURNET,DRE (not including  ADAunits),Hart,eSlate,4.2.13,98
+BURNET,Other,Hart,Ballot Now Scanner,0,1
+BURNET,Other,Hart,Judges Booth Controller (JBC),4.3.1,0
+BURNET,Software,Hart,Ballot Now,3.3.11,0
+BURNET,Software,Hart,BOSS,4.3.13,0
+BURNET,Software,Hart,eCM,1.1.7,0
+BURNET,Software,Hart,SERVO,4.2.10,0
+BURNET,Software,Hart,Tally,4.3.10,0
+CALDWELL,DRE (not including  ADAunits),ES&S,iVotronic,9.1.6.2,37
+CALDWELL,Optical  Scan (not including ADAunits),ES&S,Model  650,2.1.0.0,1
+CALDWELL,Software,ES&S,Election Reporting Manager (ERM),7.1.2.1,0
+CALDWELL,Software,ES&S,Unity,3.0.1.1,1
+CALHOUN,Electronic Ballot Marker,ES&S,AutoMARK  Voter Assist Terminal,1.1,50
+CALHOUN,Optical Scan (not including ADAunits),ES&S,Model 650,2.1.0.0,1
+CALLAHAN,DRE (not including  ADAunits),Hart,eSlate,4.2.13,23
+CALLAHAN,Optical  Scan (not including ADAunits),Hart,eScan,1.3.14,1
+CALLAHAN,Other,Hart,Judges Booth Controller (JBC),4.3.1,0
+CALLAHAN,Software,Hart,eCM,1.1.7,0
+CALLAHAN,Software,Hart,SERVO,4.2.10,0
+CALLAHAN,Software,Hart,Tally,4.3.10,0
+CAMERON,Electronic Ballot Marker,ES&S,AutoMARK  Voter Assist Terminal,1.1,137
+CAMERON,Optical Scan (not including ADAunits),ES&S,Model 100,5.2.1.0,137
+CAMERON,Optical Scan (not including ADAunits),ES&S,Model 650,2.1.0.0,2
+CAMERON,Software,ES&S,Election Reporting Manager (ERM),7.1.2.1,0
+CAMERON,Software,ES&S,Unity,3.0.1.1,1
+CAMP,Electronic Ballot Marker,ES&S,AutoMARK Voter Assist Terminal,1.1,5
+CAMP,Optical Scan (not including ADAunits),ES&S,Model 100,5.2.1.0,5
+CAMP,Software,ES&S,Ballot on Demand (BOD),7.2.0.0,0
+CAMP,Software,ES&S,Election Reporting Manager (ERM),7.1.2.1,0
+CAMP,Software,ES&S,Unity,3.0.1.1,1
+CARSON,Electronic Ballot Marker,ES&S,AutoMARK Voter Assist Terminal,1.1,10
+CARSON,Optical Scan (not including ADAunits),ES&S,Model 650,2.1.0.0,1
+CASS,DRE (not including ADAunits),Hart,eSlate,4.2.13,71
+CASS,Optical Scan (not including ADAunits),Hart,eScan,1.3.14,2
+CASS,Other,Hart,Judges Booth Controller (JBC),4.3.1,0
+CASS,Software,Hart,eCM,1.1.7,0
+CASS,Software,Hart,SERVO,4.2.10,0
+CASS,Software,Hart,Tally,4.3.10,0
+CASTRO,DRE (not including ADAunits),Hart,eSlate,6.2.1,20
+CASTRO,Other,Hart,Judges Booth Controller (JBC),4.3.1,0
+CASTRO,Software,Hart,BOSS,4.3.13,0
+CASTRO,Software,Hart,SERVO,4.2.10,0
+CASTRO,Software,Hart,Tally,4.3.10,0
+CHAMBERS,DRE (not including ADAunits),ES&S,iVotronic,9.1.6.2,156
+CHAMBERS,Optical Scan (not including ADAunits),ES&S,Model 100,5.2.1.0,1
+CHAMBERS,Software,ES&S,Data Acquistion Manager (DAM),6.0.0.0,0
+CHAMBERS,Software,ES&S,Election Reporting Manager (ERM),7.1.2.1,0
+CHAMBERS,Software,ES&S,Hardware Program Manager (HPM),5.2.4.0,0
+CHAMBERS,Software,ES&S,Unity,3.0.1.1,1
+CHEROKEE,DRE (not including  ADAunits),Hart,eSlate,4.2.13,33
+CHEROKEE,Optical  Scan (not including ADAunits),Hart,eScan,1.3.14,33
+CHEROKEE,Other,Hart,Judges Booth Controller (JBC),4.3.1,0
+CHEROKEE,Software,Hart,eCM,1.1.7,0
+CHEROKEE,Software,Hart,SERVO,4.2.10,0
+CHEROKEE,Software,Hart,Tally,4.3.10,0
+CHILDRESS,DRE (not including  ADAunits),ES&S,iVotronic,9.1.6.2,10
+CHILDRESS,Software,ES&S,Election Reporting  Manager (ERM),7.1.2.1,0
+CHILDRESS,Software,ES&S,Unity,3.0.1.1,1
+CLAY,Electronic Ballot Marker,ES&S,AutoMARK  Voter Assist Terminal,1.1,22
+CLAY,Optical  Scan (not including ADAunits),ES&S,Model  100,5.2.1.0,18
+CLAY,Software,ES&S,Election Reporting Manager (ERM),7.1.2.1,0
+CLAY,Software,ES&S,Unity,3.0.1.1,1
+COCHRAN,Electronic Ballot Marker,ES&S,AutoMARK  Voter Assist Terminal,1.1,8
+COCHRAN,Optical Scan (not including ADAunits),ES&S,Model 100,5.2.1.0,4
+COCHRAN,Software,ES&S,Election Reporting Manager (ERM),7.1.2.1,0
+COCHRAN,Software,ES&S,Unity,3.0.1.1,1
+COKE,DRE (not including ADAunits),Hart,eSlate,6.2.1,10
+COKE,Other,Hart,Judges Booth Controller (JBC),4.3.1,0
+COKE,Software,Hart,SERVO,4.2.10,0
+COKE,Software,Hart,Tally,4.3.10,0
+COLEMAN,DRE (not including ADAunits),Premier,Accu-Vote TSX,4.6.4,20
+COLEMAN,Other,Premier,Vote Card Encoder,1.3.2,0
+COLEMAN,Software,Premier,GEMS,1.18.24,0
+COLLIN,DRE (not including ADAunits),Premier,Accu-Vote TS R6,4.6.4,1000
+COLLIN,DRE (not including ADAunits),Premier,Accu-Vote TSX,4.6.4,420
+COLLIN,Optical Scan (not including ADAunits),Premier,Accu-Vote OS,2.0.12,3
+COLLIN,Other,Premier,Key Card Tool,4.6.1,0
+COLLIN,Other,Premier,VC Programmer,4.1.11,0
+COLLIN,Other,Premier,Vote Card Encoder,1.3.2,0
+COLLIN,Software,Premier,GEMS,1.18.24,0
+COLLINGSWORTH,Electronic Ballot Marker,ES&S,AutoMARK  Voter Assist Terminal,1.1,10
+COLLINGSWORTH,Optical Scan (not including ADAunits),ES&S,Model 100,5.2.1.0,2
+COLORADO,Electronic Ballot Marker,ES&S,AutoMARK  Voter Assist Terminal,1.1,16
+COLORADO,Optical  Scan (not including ADAunits),ES&S,Model  650,2.1.0.0,1
+COMAL,DRE (not including  ADAunits),ES&S,iVotronic,9.1.6.2,214
+COMAL,Optical  Scan (not including ADAunits),ES&S,Model  100,5.2.1.0,2
+COMAL,Software,ES&S,Election Reporting Manager (ERM),7.1.2.1,0
+COMAL,Software,ES&S,Hardware Program Manager (HPM),5.2.4.0,0
+COMAL,Software,ES&S,Unity,3.0.1.1,1
+COMANCHE,DRE (not including  ADAunits),Hart,eSlate,4.2.13,12
+COMANCHE,Optical  Scan (not including ADAunits),Hart,eScan,1.3.14,5
+COMANCHE,Other,Hart,Judges Booth Controller (JBC),4.3.1,0
+COMANCHE,Software,Hart,eCM,1.1.7,0
+COMANCHE,Software,Hart,SERVO,4.2.10,0
+COMANCHE,Software,Hart,Tally,4.3.10,0
+CONCHO,DRE (not including  ADAunits),Hart,eSlate,4.2.13,23
+CONCHO,Other,Hart,Judges Booth Controller (JBC),4.3.1,0
+CONCHO,Software,Hart,eCM,1.1.7,0
+CONCHO,Software,Hart,SERVO,4.2.10,0
+CONCHO,Software,Hart,Tally,4.3.10,0
+COOKE,Electronic Ballot Marker,ES&S,AutoMARK  Voter Assist Terminal,1.1,1
+COOKE,Optical Scan (not including ADAunits),ES&S,Model 650,2.1.0.0,1
+CORYELL,DRE (not including ADAunits),Hart,eSlate,4.2.13,64
+CORYELL,Optical Scan (not including ADAunits),Hart,eScan,1.3.14,7
+CORYELL,Other,Hart,Judges Booth Controller (JBC),4.3.1,0
+CORYELL,Software,Hart,eCM,1.1.7,0
+CORYELL,Software,Hart,SERVO,4.2.10,0
+CORYELL,Software,Hart,Tally,4.3.10,0
+COTTLE,DRE (not including ADAunits),ES&S,iVotronic,9.1.6.2,15
+COTTLE,Other,ES&S,PEB,1.07,0
+CRANE,DRE (not including ADAunits),ES&S,iVotronic,9.1.6.2,1
+CRANE,Optical Scan (not including ADAunits),ES&S,Model 100,5.2.1.0,1
+CRANE,Software,ES&S,Election Reporting Manager (ERM),7.1.2.1,0
+CRANE,Software,ES&S,Unity,3.0.1.1,1
+CRANE COUNTY,DRE (not including  ADAunits),ES&S,iVotronic,9.1.6.2,1
+CRANE COUNTY,Optical  Scan (not including ADAunits),ES&S,Model  100,5.2.1.0,1
+CRANE COUNTY,Software,ES&S,Election Reporting Manager (ERM),7.1.2.1,0
+CRANE COUNTY,Software,ES&S,Unity,3.0.1.1,1
+CROCKETT,Electronic Ballot Marker,ES&S,AutoMARK  Voter Assist Terminal,1.1,5
+CROCKETT,Optical Scan (not including ADAunits),ES&S,Model 100,5.2.1.0,5
+CROCKETT,Software,ES&S,Election Reporting Manager (ERM),7.1.2.1,0
+CROCKETT,Software,ES&S,Unity,3.0.1.1,1
+CROSBY,DRE (not including ADA units),Hart,eSlate,4.2.13,6
+CROSBY,Optical Scan (not including ADA units),Hart,eScan,1.3.14,1
+CROSBY,Other,Hart,Judges Booth Controller (JBC),4.1.3,0
+CROSBY,Software,Hart,eCM,1.1.7,0
+CROSBY,Software,Hart,SERVO,4.2.10,0
+CROSBY,Software,Hart,Tally,4.3.10,0
+CULBERSON,DRE (not including ADA units),Hart,eSlate,4.2.13,6
+CULBERSON,Other,Hart,Judges Booth Controller (JBC),4.3.1,0
+CULBERSON,Software,Hart,SERVO,4.2.10,0
+CULBERSON,Software,Hart,Tally,4.3.10,0
+DALLAM,Electronic Ballot Marker,ES&S,AutoMARK Voter Assist Terminal,1.1,14
+DALLAM,Optical Scan (not including ADA units),ES&S,Model 100,5.2.1.0,3
+DALLAM,Software,ES&S,Election Reporting Mana ger (ERM),7.1.2.1,0
+DALLAM,Software,ES&S,Unity,3.0.1.1,1
+DALLAS,DRE (not including ADA units),ES&S,iVotronic,9.1.6.2,400
+DALLAS,Optical Scan (not including ADA units),ES&S,Model 100,5.2.1.0,1000
+DALLAS,Optical Scan (not including ADA units),ES&S,Model 650,2.1.0.0,2
+DALLAS,Software,ES&S,Audit Manager,7.3.0.0,0
+DALLAS,Software,ES&S,Ballot Image Manager (BIM),7.4.2.0,0
+DALLAS,Software,ES&S,Data Acquistion Manager (DAM),6.0.0.0,0
+DALLAS,Software,ES&S,Election Data Manager (EDM),7.4.4.0,0
+DALLAS,Software,ES&S,Election Reporting Mana ger (ERM),7.1.2.1,0
+DALLAS,Software,ES&S,Hardware Program Manager (HPM),5.2.4.0,0
+DALLAS,Software,ES&S,Unity,3.0.1.1,1
+DAWSON,DRE (not including ADA units),Hart,eSlate,6.2.1,25
+DAWSON,Optical Scan (not including ADA units),Hart,eScan,1.3.14,3
+DAWSON,Other,Hart,Ballot Now Scanner,0,1
+DAWSON,Other,Hart,Judges Booth Controller (JBC),4.3.1,0
+DAWSON,Software,Hart,Ballot Now,3.3.11,0
+DAWSON,Software,Hart,eCM,1.1.7,0
+DAWSON,Software,Hart,SERVO,4.2.10,0
+DAWSON,Software,Hart,Tally,4.3.10,0
+DEAF SMITH,DRE (not including ADA units),Hart,eSlate,4.1.3,25
+DEAF SMITH,Other,Hart,Ballot Now Scanner,0,1
+DEAF SMITH,Other,Hart,Judges Booth Controller (JBC),4.1.3,0
+DEAF SMITH,Software,Hart,Ballot Now,3.2.4,0
+DEAF SMITH,Software,Hart,BOSS,4.2.13,0
+DEAF SMITH,Software,Hart,eCM,1.1.7,0
+DEAF SMITH,Software,Hart,SERVO,4.1.6,0
+DEAF SMITH,Software,Hart,Tally,4.2.8,0
+DELTA,DRE (not including ADA units),Hart,eSlate,4.1.3,8
+DELTA,Optical Scan (not including ADA units),Hart,eScan,1.2.0,2
+DELTA,Other,Hart,Judges Booth Controller (JBC),4.1.3,0
+DELTA,Software,Hart,eCM,1.1.7,0
+DELTA,Software,Hart,SERVO,4.1.6,0
+DELTA,Software,Hart,Tally,4.2.8,0
+DENTON,DRE (not including ADA units),Hart,eSlate,6.2.1,350
+DENTON,Optical Scan (not including ADA units),Hart,eScan,1.3.14,170
+DENTON,Other,Hart,Ballot Now Scanner,0,1
+DENTON,Other,Hart,Judges Booth Controller (JBC),4.3.1,0
+DENTON,Software,Hart,Ballot Now,3.3.11,0
+DENTON,Software,Hart,BOSS,4.3.13,0
+DENTON,Software,Hart,eCM,1.1.7,0
+DENTON,Software,Hart,SERVO,4.2.10,0
+DENTON,Software,Hart,Tally,4.3.10,0
+DEWITT,DRE (not including ADA units),Hart,eSlate,4.2.13,21
+DEWITT,Optical Scan (not including ADA units),Hart,eScan,1.3.14,12
+DEWITT,Other,Hart,Judges Booth Controller (JBC),4.3.1,0
+DEWITT,Software,Hart,eCM,1.1.7,0
+DEWITT,Software,Hart,SERVO,4.2.10,0
+DEWITT,Software,Hart,Tally,4.3.10,0
+DICKENS,DRE (not including ADA units),Hart,eSlate,4.2.13,3
+DICKENS,Other,Hart,Judges Booth Controller (JBC),4.3.1,0
+DICKENS,Software,Hart,eCM,1.1.7,0
+DICKENS,Software,Hart,SERVO,4.2.10,0
+DICKENS,Software,Hart,Tally,4.3.10,0
+DIMMIT,Electronic Ballot Marker,ES&S,AutoMARK Voter Assist Terminal,1.1,9
+DIMMIT,Optical Scan (not including ADA units),ES&S,Model 650,2.1.0.0,1
+DONLEY,Electronic Ballot Marker,ES&S,AutoMARK Voter Assist Terminal,1.1,10
+DONLEY,Optical Scan (not including ADA units),ES&S,Model 650,2.1.0.0,1
+DUVAL,DRE (not including ADA units),Hart,eSlate,4.1.3,15
+DUVAL,Optical Scan (not including ADA units),Hart,eScan,1.2.0,15
+DUVAL,Software,Hart,eCM,1.1.7,0
+DUVAL,Software,Hart,SERVO,4.1.6,0
+DUVAL,Software,Hart,Tally,4.2.8,0
+EASTLAND,DRE (not including ADA units),Hart,eSlate,6.2.1,27
+EASTLAND,Other,Hart,Ballot Now Scanner,0,1
+EASTLAND,Other,Hart,Judges Booth Controller (JBC),4.3.1,0
+EASTLAND,Software,Hart,Ballot Now,3.3.11,0
+EASTLAND,Software,Hart,BOSS,4.3.13,0
+EASTLAND,Software,Hart,SERVO,4.2.10,0
+EASTLAND,Software,Hart,Tally,4.3.10,0
+ECTOR,DRE (not including ADA units),Hart,eSlate,4.2.13,203
+ECTOR,Other,Hart,Judges Booth Controller (JBC),4.3.1,0
+ECTOR,Software,Hart,BOSS,4.3.13,0
+ECTOR,Software,Hart,eCM,1.1.7,0
+ECTOR,Software,Hart,SERVO,4.2.10,0
+ECTOR,Software,Hart,Tally,4.3.10,0
+EDWARDS,Electronic Ballot Marker,ES&S,AutoMARK Voter Assist Terminal,1.1,6
+EDWARDS,Optical Scan (not including ADA units),ES&S,Model 100,5.2.1.0,6
+EDWARDS,Software,ES&S,Election Reporting Mana ger (ERM),7.1.2.1,0
+EDWARDS,Software,ES&S,Unity,3.0.1.1,1
+EL PASO,DRE (not including ADA units),Premier,Accu-Vote TS R6,4.6.4,1035
+EL PASO,DRE (not including ADA units),Premier,Accu-Vote TSX,4.6.4,315
+EL PASO,Optical Scan (not including ADA units),Premier,Accu-Vote OS,2.0.12,4
+EL PASO,Other,Premier,Key Card Tool,4.6.1,0
+EL PASO,Other,Premier,VC Programmer,4.6.1,0
+EL PASO,Other,Premier,Vote Card Encoder,1.3.2,0
+EL PASO,Software,Premier,GEMS,1.18.24,0
+ELLIS,Electronic Ballot Marker,ES&S,AutoMARK Voter Assist Terminal,1.1,50
+ELLIS,Optical Scan (not including ADA units),ES&S,Model 100,5.2.1.0,50
+ELLIS,Optical Scan (not including ADA units),ES&S,Model 650,2.1.0.0,1
+ELLIS,Software,ES&S,Election Reporting Mana ger (ERM),7.1.2.1,0
+ELLIS,Software,ES&S,Unity,3.0.1.1,1
+ERATH,DRE (not including ADA units),Hart,eSlate,4.1.3,62
+ERATH,Other,Hart,Judges Booth Controller (JBC),4.1.3,0
+ERATH,Software,Hart,eCM,1.1.7,0
+ERATH,Software,Hart,SERVO,4.1.6,0
+FALLS,DRE (not including ADA units),Hart,eSlate,4.2.13,24
+FALLS,Optical Scan (not including ADA units),Hart,eScan,1.3.14,15
+FALLS,Other,Hart,Judges Booth Controller (JBC),4.3.1,0
+FALLS,Software,Hart,eCM,1.1.7,0
+FALLS,Software,Hart,SERVO,4.2.10,0
+FALLS,Software,Hart,Tally,4.3.10,0
+FANNIN,DRE (not including ADA units),Hart,eSlate,4.1.3,55
+FANNIN,Other,Hart,Ballot Now Scanner,0,1
+FANNIN,Other,Hart,Judges Booth Controller (JBC),4.1.3,0
+FANNIN,Software,Hart,Ballot Now,3.3.11,0
+FANNIN,Software,Hart,BOSS,4.3.13,0
+FANNIN,Software,Hart,SERVO,4.2.10,0
+FANNIN,Software,Hart,Tally,4.3.10,0
+FAYETTE,Electronic Ballot Marker,ES&S,AutoMARK Voter Assist Terminal,1.1,38
+FAYETTE,Optical Scan (not including ADA units),ES&S,Model 650,2.1.0.0,1
+FAYETTE,Software,ES&S,Election Reporting Mana ger (ERM),7.1.2.1,0
+FAYETTE,Software,ES&S,Unity,3.0.1.1,1
+FISHER,Electronic Ballot Marker,ES&S,AutoMARK Voter Assist Terminal,1.1,11
+FISHER,Optical Scan (not including ADA units),ES&S,Model 100,5.2.1.0,10
+FISHER,Software,ES&S,Election Reporting Mana ger (ERM),7.1.2.1,0
+FISHER,Software,ES&S,Unity,3.0.1.1,1
+FLOYD,DRE (not including ADA units),Hart,eSlate,4.1.3,10
+FLOYD,Other,Hart,Judges Booth Controller (JBC),4.1.3,0
+FLOYD,Software,Hart,eCM,1.1.7,0
+FLOYD,Software,Hart,SERVO,4.1.6,0
+FLOYD,Software,Hart,Tally,4.2.8,0
+FOARD,Software,Hart,eCM,1.1.7,0
+FOARD,Software,Hart,SERVO,4.2.10,0
+FOARD,Software,Hart,Tally,4.3.10,0
+FORT BEND,DRE (not including ADA units),Hart,eSlate,4.2.13,1115
+FORT BEND,Other,Hart,Ballot Now Scanner,0,1
+FORT BEND,Other,Hart,Judges Booth Controller (JBC),4.3.1,0
+FORT BEND,Software,Hart,Ballot Now,3.3.11,0
+FORT BEND,Software,Hart,BOSS,4.3.13,0
+FORT BEND,Software,Hart,eCM,1.1.7,0
+FORT BEND,Software,Hart,SERVO,4.2.10,0
+FORT BEND,Software,Hart,Tally,4.3.10,0
+FRANKLIN,Electronic Ballot Marker,ES&S,AutoMARK Voter Assist Terminal,1.1,10
+FRANKLIN,Optical Scan (not including ADA units),ES&S,Model 100,5.2.1.0,10
+FRANKLIN,Software,ES&S,Election Reporting Mana ger (ERM),7.1.2.1,0
+FRANKLIN,Software,ES&S,Unity,3.0.1.1,1
+FREESTONE,DRE (not including ADA units),ES&S,iVotronic,9.1.6.2,21
+FREESTONE,Optical Scan (not including ADA units),ES&S,Model 100,5.2.1.0,17
+FREESTONE,Software,ES&S,Election Reporting Mana ger (ERM),7.1.2.1,0
+FREESTONE,Software,ES&S,Unity,3.0.1.1,1
+FRIO,Electronic Ballot Marker,ES&S,AutoMARK Voter Assist Terminal,1.1,15
+FRIO,Optical Scan (not including ADA units),ES&S,Model 650,2.1.0.0,1
+GAINES,DRE (not including ADA units),Hart,eSlate,4.2.13,23
+GAINES,Optical Scan (not including ADA units),Hart,eScan,1.3.14,2
+GAINES,Other,Hart,Judges Booth Controller (JBC),4.3.1,0
+GAINES,Software,Hart,eCM,1.1.7,0
+GAINES,Software,Hart,SERVO,4.2.10,0
+GAINES,Software,Hart,Tally,4.3.10,0
+GALVESTON,DRE (not including ADA units),Hart,eSlate,4.2.13,518
+GALVESTON,Optical Scan (not including ADA units),Hart,eScan,1.3.14,2
+GALVESTON,Other,Hart,Ballot Now Scanner,0,1
+GALVESTON,Other,Hart,Judges Booth Controller (JBC),4.3.1,0
+GALVESTON,Software,Hart,Ballot Now,3.3.11,0
+GALVESTON,Software,Hart,BOSS,4.2.13,0
+GALVESTON,Software,Hart,eCM,1.1.7,0
+GALVESTON,Software,Hart,SERVO,4.2.10,0
+GALVESTON,Software,Hart,Tally,4.3.10,0
+GARZA,Electronic Ballot Marker,ES&S,AutoMARK Voter Assist Terminal,1.1,10
+GARZA,Optical Scan (not including ADA units),ES&S,Model 100,5.2.1.0,7
+GILLESPIE,Electronic Ballot Marker,ES&S,AutoMARK Voter Assist Terminal,1.1,17
+GILLESPIE,Optical Scan (not including ADA units),ES&S,Model 650,2.1.0.0,1
+GLASSCOCK,Electronic Ballot Marker,ES&S,AutoMARK Voter Assist Terminal,1.1,5
+GOLIAD,Electronic Ballot Marker,ES&S,AutoMARK Voter Assist Terminal,1.1,11
+GOLIAD,Optical Scan (not including ADA units),ES&S,Model 100,5.2.1.0,11
+GOLIAD,Software,ES&S,Election Reporting Mana ger (ERM),7.1.2.1,0
+GOLIAD,Software,ES&S,Unity,3.0.1.1,1
+GONZALES,Electronic Ballot Marker,ES&S,AutoMARK Voter Assist Terminal,1.1,19
+GONZALES,Optical Scan (not including ADA units),ES&S,Model 650,2.1.0.0,1
+GRAY,DRE (not including ADA units),Hart,eSlate,4.1.3,29
+GRAY,Optical Scan (not including ADA units),Hart,eScan,1.2.0,7
+GRAY,Other,Hart,Judges Booth Controller (JBC),4.1.3,0
+GRAY,Software,Hart,eCM,1.1.7,0
+GRAY,Software,Hart,SERVO,4.1.6,0
+GRAY,Software,Hart,Tally,4.2.8,0
+GRAYSON,DRE (not including ADA units),ES&S,iVotronic,9.1.6.2,180
+GRAYSON,Optical Scan (not including ADA units),ES&S,Model 650,2.1.0.0,1
+GRAYSON,Software,ES&S,Election Reporting Mana ger (ERM),7.1.2.1,0
+GRAYSON,Software,ES&S,Unity,3.0.1.1,1
+GREGG,DRE (not including ADA units),Hart,eSlate,4.2.13,101
+GREGG,Other,Hart,Ballot Now Scanner,0,1
+GREGG,Other,Hart,Judges Booth Controller (JBC),4.3.1,0
+GREGG,Software,Hart,Ballot Now,3.3.11,0
+GREGG,Software,Hart,BOSS,4.3.13,0
+GREGG,Software,Hart,eCM,1.1.7,0
+GREGG,Software,Hart,SERVO,4.2.10,0
+GREGG,Software,Hart,Tally,4.3.10,0
+GRIMES,Optical Scan (not including ADA units),Hart,eScan,1.2.0,5
+GRIMES,Other,Hart,Judges Booth Controller (JBC),4.1.3,0
+GRIMES,Software,Hart,eCM,1.1.7,0
+GRIMES,Software,Hart,SERVO,4.1.6,0
+GRIMES,Software,Hart,Tally,4.2.8,0
+GUADALUPE,DRE (not including ADA units),Premier,Accu-Vote TSX,4.6.4,347
+GUADALUPE,Optical Scan (not including ADA units),Premier,ACCU-VOTE OS (Model D),1.96.6,5
+GUADALUPE,Other,Premier,VC Programmer,4.6.1,0
+GUADALUPE,Other,Premier,Vote Card Encoder,1.3.2,0
+GUADALUPE,Software,Premier,GEMS,1.18.24,0
+HALE,DRE (not including ADA units),Hart,eSlate,4.2.13,44
+HALE,Optical Scan (not including ADA units),Hart,eScan,1.0.10,1
+HALE,Other,Hart,Ballot Now Scanner,0,1
+HALE,Other,Hart,Judges Booth Controller (JBC),4.3.1,0
+HALE,Software,Hart,Ballot Now,3.3.11,0
+HALE,Software,Hart,BOSS,4.3.13,0
+HALE,Software,Hart,SERVO,4.2.10,0
+HALE,Software,Hart,Tally,4.3.10,0
+HALL,DRE (not including ADA units),ES&S,iVotronic,9.1.6.2,12
+HALL,Software,ES&S,Unity,3.0.1.1,1
+HAMILTON,Electronic Ballot Marker,ES&S,AutoMARK Voter Assist Terminal,1.1,18
+HAMILTON,Optical Scan (not including ADA units),ES&S,Model 650,2.1.0.0,1
+HANSFORD,Electronic Ballot Marker,ES&S,AutoMARK Voter Assist Terminal,1.1,16
+HARDEMAN,Electronic Ballot Marker,ES&S,AutoMARK Voter Assist Terminal,1.1,6
+HARDEMAN,Optical Scan (not including ADA units),ES&S,Model 100,5.2.1.0,6
+HARDIN,DRE (not including ADA units),Hart,eSlate,4.2.13,13
+HARDIN,Optical Scan (not including ADA units),Hart,eScan,1.3.14,22
+HARDIN,Other,Hart,Judges Booth Controller (JBC),4.3.1,0
+HARDIN,Software,Hart,eCM,1.1.7,0
+HARDIN,Software,Hart,SERVO,4.2.10,0
+HARDIN,Software,Hart,Tally,4.3.10,0
+HARRIS,DRE (not including ADA units),Hart,eSlate,4.2.13,7290
+HARRIS,Other,Hart,Ballot Now Scanner,0,6
+HARRIS,Other,Hart,Judges Booth Controller (JBC),4.3.1,0
+HARRIS,Software,Hart,Ballot Now,3.3.11,0
+HARRIS,Software,Hart,BOSS,4.3.13,0
+HARRIS,Software,Hart,eCM,1.1.7,0
+HARRIS,Software,Hart,Rally,2.3.7,0
+HARRIS,Software,Hart,SERVO,4.2.10,0
+HARRIS,Software,Hart,Tally,4.3.10,0
+HARRISON,DRE (not including ADA units),Hart,eSlate,4.2.13,2
+HARRISON,Optical Scan (not including ADA units),Hart,eScan,1.3.14,40
+HARRISON,Other,Hart,Judges Booth Controller (JBC),4.3.1,0
+HARRISON,Software,Hart,Ballot Now,3.3.11,0
+HARRISON,Software,Hart,BOSS,4.3.13,0
+HARRISON,Software,Hart,eCM,1.1.7,0
+HARRISON,Software,Hart,SERVO,4.2.10,0
+HARRISON,Software,Hart,Tally,4.3.10,0
+HARTLEY,Electronic Ballot Marker,ES&S,AutoMARK Voter Assist Terminal,1.1,7
+HARTLEY,Optical Scan (not including ADA units),ES&S,Model 100,5.2.1.0,7
+HARTLEY,Software,ES&S,Election Reporting Mana ger (ERM),7.1.2.1,0
+HARTLEY,Software,ES&S,Unity,3.0.1.1,1
+HASKELL,Electronic Ballot Marker,ES&S,AutoMARK Voter Assist Terminal,1,14
+HAYS,DRE (not including ADA units),Hart,eSlate,4.2.13,253
+HAYS,Other,Hart,Ballot Now Scanner,0,1
+HAYS,Other,Hart,Judges Booth Controller (JBC),4.3.1,0
+HAYS,Software,Hart,Ballot Now,3.3.11,0
+HAYS,Software,Hart,BOSS,4.3.13,0
+HAYS,Software,Hart,eCM,1.1.7,0
+HAYS,Software,Hart,SERVO,4.2.10,0
+HAYS,Software,Hart,Tally,4.3.10,0
+HEMPHILL,Electronic Ballot Marker,ES&S,AutoMARK Voter Assist Terminal,1.1,14
+HEMPHILL,Optical Scan (not including ADA units),ES&S,Model 100,5.2.1.0,2
+HEMPHILL,Software,ES&S,Election Reporting Mana ger (ERM),7.1.2.1,0
+HEMPHILL,Software,ES&S,Unity,3.0.1.1,1
+HENDERSON,DRE (not including ADA units),Hart,eSlate,4.2.13,41
+HENDERSON,Optical Scan (not including ADA units),Hart,eScan,1.3.14,39
+HENDERSON,Other,Hart,Judges Booth Controller (JBC),4.3.1,0
+HENDERSON,Software,Hart,eCM,1.1.7,0
+HENDERSON,Software,Hart,SERVO,4.2.10,0
+HENDERSON,Software,Hart,Tally,4.3.10,0
+HIDALGO,DRE (not including ADA units),ES&S,iVotronic,9.1.6.2,570
+HIDALGO,Optical Scan (not including ADA units),ES&S,Model 650,2.1.0.0,1
+HIDALGO,Software,ES&S,Ballot Image Manager (BIM),7.2.0.0,0
+HIDALGO,Software,ES&S,Ballot on Demand (BOD),7.2.0.0,0
+HIDALGO,Software,ES&S,Election Data Manager (EDM),7.2.1.0,0
+HIDALGO,Software,ES&S,Election Reporting Mana ger (ERM),7.1.2.1,0
+HIDALGO,Software,ES&S,Hardware Program Manager (HPM),5.0.3.0,0
+HIDALGO,Software,ES&S,iVotronic Image Manager (iVIM),1.2.3.0,0
+HILL,DRE (not including ADA units),ES&S,iVotronic,9.1.6.2,74
+HILL,Optical Scan (not including ADA units),ES&S,Model 650,2.1.0.0,1
+HILL,Software,ES&S,Election Reporting Mana ger (ERM),7.1.2.1,0
+HOCKLEY,Electronic Ballot Marker,ES&S,AutoMARK Voter Assist Terminal,1.1,24
+HOCKLEY,Optical Scan (not including ADA units),ES&S,Model 650,2.1.0.0,1
+HOOD,DRE (not including ADA units),ES&S,iVotronic,9.1.6.2,63
+HOOD,Optical Scan (not including ADA units),ES&S,Model 650,2.1.0.0,1
+HOOD,Other,ES&S,PEB,1.07,0
+HOOD,Software,ES&S,Election Reporting Mana ger (ERM),7.1.2.1,0
+HOPKINS,DRE (not including ADA units),Hart,eSlate,4.2.13,10
+HOPKINS,Optical Scan (not including ADA units),Hart,eScan,1.3.14,24
+HOPKINS,Other,Hart,Judges Booth Controller (JBC),4.3.1,0
+HOPKINS,Software,Hart,eCM,1.1.7,0
+HOPKINS,Software,Hart,SERVO,4.2.10,0
+HOPKINS,Software,Hart,Tally,4.3.10,0
+HOUSTON,Electronic Ballot Marker,ES&S,AutoMARK Voter Assist Terminal,1.1,25
+HOUSTON,Optical Scan (not including ADA units),ES&S,Model 650,2.1.0.0,1
+HOWARD,DRE (not including ADA units),ES&S,iVotronic,9.1.6.2,35
+HOWARD,Optical Scan (not including ADA units),ES&S,Model 100,5.2.1.0,2
+HOWARD,Software,ES&S,Ballot Image Manager (BIM),7.2.0.0,0
+HOWARD,Software,ES&S,Election Data Manager (EDM),7.2.1.0,0
+HOWARD,Software,ES&S,Election Reporting Mana ger (ERM),7.1.2.1,0
+HOWARD,Software,ES&S,Hardware Program Manager (HPM),5.2.4.0,0
+HOWARD,Software,ES&S,Unity,3.0.1.1,1
+HUDSPETH,Other,Hart,Judges Booth Controller (JBC),4.1.3,0
+HUDSPETH,Software,Hart,eCM,1.1.7,0
+HUDSPETH,Software,Hart,SERVO,4.1.6,0
+HUDSPETH,Software,Hart,Tally,4.2.8,0
+HUNT,DRE (not including ADA units),Hart,eSlate,4.2.13,53
+HUNT,Optical Scan (not including ADA units),Hart,eScan,1.3.14,50
+HUNT,Other,Hart,Ballot Now Scanner,0,1
+HUNT,Other,Hart,Judges Booth Controller (JBC),4.3.1,0
+HUNT,Software,Hart,Ballot Now,3.3.11,0
+HUNT,Software,Hart,BOSS,4.3.13,0
+HUNT,Software,Hart,eCM,1.1.7,0
+HUNT,Software,Hart,SERVO,4.2.10,0
+HUNT,Software,Hart,Tally,4.3.10,0
+HUTCHINSON,DRE (not including ADA units),ES&S,iVotronic,9.1.6.2,12
+HUTCHINSON,Optical Scan (not including ADA units),ES&S,Model 100,5.2.1.0,9
+HUTCHINSON,Software,ES&S,Election Reporting Mana ger (ERM),7.1.2.1,0
+HUTCHINSON,Software,ES&S,Unity,3.0.1.1,1
+IRION,DRE (not including ADA units),Hart,eSlate,4.2.13,5
+IRION,Optical Scan (not including ADA units),Hart,eScan,1.3.14,4
+IRION,Other,Hart,Judges Booth Controller (JBC),4.3.1,0
+IRION,Software,Hart,eCM,1.1.7,0
+IRION,Software,Hart,SERVO,4.2.10,0
+IRION,Software,Hart,Tally,4.3.10,0
+JACK,DRE (not including ADA units),Hart,eSlate,4.2.13,18
+JACK,Optical Scan (not including ADA units),Hart,eScan,1.3.14,1
+JACK,Other,Hart,Judges Booth Controller (JBC),4.3.1,0
+JACK,Software,Hart,eCM,1.1.7,0
+JACK,Software,Hart,SERVO,4.2.10,0
+JACK,Software,Hart,Tally,4.3.10,0
+JACKSON,DRE (not including ADA units),Premier,Accu-Vote TSX,4.6.4,38
+JACKSON,Other,Premier,Vote Card Encoder,1.3.2,0
+JACKSON,Software,Premier,GEMS,1.18.24,0
+JASPER,Electronic Ballot Marker,ES&S,AutoMARK Voter Assist Terminal,1.1,35
+JASPER,Optical Scan (not including ADA units),ES&S,Model 650,2.1.0.0,1
+JASPER COUNTY,Electronic Ballot Marker,ES&S,AutoMARK Voter Assist Terminal,1.1,35
+JASPER COUNTY,Optical Scan (not including ADA units),ES&S,Model 650,2.1.0.0,1
+JEFF DAVIS,Electronic Ballot Marker,ES&S,AutoMARK Voter Assist Terminal,1.1,7
+JEFF DAVIS,Optical Scan (not including ADA units),ES&S,Model 100,5.2.1.0,7
+JEFFERSON,DRE (not including ADA units),ES&S,iVotronic,9.1.6.2,216
+JEFFERSON,Optical Scan (not including ADA units),ES&S,Model 650,2.1.0.0,1
+JEFFERSON,Software,ES&S,Ballot Image Manager (BIM),7.4.2.0,0
+JEFFERSON,Software,ES&S,Ballot on Demand (BOD),7.4.2.0,0
+JEFFERSON,Software,ES&S,Election Data Manager (EDM),7.4.4.0,0
+JEFFERSON,Software,ES&S,Election Reporting Mana ger (ERM),7.1.2.1,0
+JEFFERSON,Software,ES&S,Hardware Program Manager (HPM),5.2.4.0,0
+JEFFERSON,Software,ES&S,iVotronic Image Manager (iVIM),2.0.1.0,0
+JEFFERSON,Software,ES&S,Unity,3.0.1.1,1
+JIM HOGG,DRE (not including ADA units),Hart,eSlate,4.2.13,6
+JIM HOGG,Optical Scan (not including ADA units),Hart,eScan,1.3.14,7
+JIM HOGG,Other,Hart,Judges Booth Controller (JBC),4.3.1,0
+JIM HOGG,Software,Hart,eCM,1.1.7,0
+JIM HOGG,Software,Hart,SERVO,4.2.10,0
+JIM HOGG,Software,Hart,Tally,4.3.10,0
+JIM WELLS,DRE (not including ADA units),Hart,eSlate,4.2.13,30
+JIM WELLS,Optical Scan (not including ADA units),Hart,eScan,1.3.14,30
+JIM WELLS,Other,Hart,Judges Booth Controller (JBC),4.3.1,0
+JIM WELLS,Software,Hart,eCM,1.1.7,0
+JIM WELLS,Software,Hart,SERVO,4.2.10,0
+JIM WELLS,Software,Hart,Tally,4.3.10,0
+JOHNSON,Electronic Ballot Marker,ES&S,AutoMARK Voter Assist Terminal,1.1,40
+JOHNSON,Optical Scan (not including ADA units),ES&S,Model 650,2.1.0.0,1
+JONES,DRE (not including ADA units),ES&S,iVotronic,9.1.6.2,32
+JONES,Optical Scan (not including ADA units),ES&S,Model 650,2.1.0.0,1
+JONES,Software,ES&S,Ballot on Demand (BOD),7.2.0.0,0
+JONES,Software,ES&S,Election Reporting Mana ger (ERM),7.1.2.1,0
+JONES,Software,ES&S,Unity,3.0.1.1,1
+KARNES,DRE (not including ADA units),Hart,eSlate,6.2.1,30
+KARNES,Software,Hart,SERVO,4.2.10,0
+KARNES,Software,Hart,Tally,4.3.10,0
+KAUFMAN,DRE (not including ADA units),Hart,eSlate,4.1.3,40
+KAUFMAN,Optical Scan (not including ADA units),Hart,eScan,1.2.0,53
+KAUFMAN,Other,Hart,Judges Booth Controller (JBC),4.1.3,0
+KAUFMAN,Software,Hart,eCM,1.1.7,0
+KAUFMAN,Software,Hart,SERVO,4.1.6,0
+KAUFMAN,Software,Hart,Tally,4.2.8,0
+KENDALL,DRE (not including ADA units),ES&S,iVotronic,9.1.6.2,5
+KENDALL,DRE (not including ADA units),ES&S,iVotronic,9.1.6.2,16
+KENDALL,DRE (not including ADA units),ES&S,iVotronic,9.1.6.2,1
+KENDALL,Optical Scan (not including ADA units),ES&S,Model 650,2.1.0.0,1
+KENDALL,Software,ES&S,Election Reporting Mana ger (ERM),7.1.2.1,0
+KENEDY,DRE (not including ADA units),Hart,eSlate,4.2.13,2
+KENEDY,Optical Scan (not including ADA units),Hart,eScan,1.3.14,1
+KENEDY,Other,Hart,Judges Booth Controller (JBC),4.3.1,0
+KENEDY,Software,Hart,eCM,1.1.7,0
+KENEDY,Software,Hart,SERVO,4.2.10,0
+KENEDY,Software,Hart,Tally,4.3.10,0
+KENT,Electronic Ballot Marker,ES&S,AutoMARK Voter Assist Terminal,1.1,8
+KENT,Software,ES&S,Election Reporting Mana ger (ERM),7.1.2.1,0
+KERR,DRE (not including ADA units),Hart,eSlate,4.2.13,22
+KERR,Optical Scan (not including ADA units),Hart,eScan,1.3.14,25
+KERR,Other,Hart,Judges Booth Controller (JBC),4.3.1,0
+KERR,Software,Hart,eCM,1.1.7,0
+KERR,Software,Hart,SERVO,4.2.10,0
+KERR,Software,Hart,Tally,4.3.10,0
+KIMBLE,DRE (not including ADA units),Hart,eSlate,4.2.13,2
+KIMBLE,Optical Scan (not including ADA units),Hart,eScan,1.3.14,2
+KIMBLE,Other,Hart,Judges Booth Controller (JBC),4.3.1,0
+KIMBLE,Software,Hart,eCM,1.1.7,0
+KIMBLE,Software,Hart,SERVO,4.2.10,0
+KIMBLE,Software,Hart,Tally,4.3.10,0
+KING,Electronic Ballot Marker,ES&S,AutoMARK Voter Assist Terminal,1.1,5
+KING,Optical Scan (not including ADA units),ES&S,Model 100,5.2.1.0,1
+KING,Software,ES&S,AutoMARK Information Management System (AIMS),1.2.18,0
+KINNEY,Electronic Ballot Marker,ES&S,AutoMARK Voter Assist Terminal,1.1,4
+KINNEY,Optical Scan (not including ADA units),ES&S,Model 100,5.2.1.0,5
+KINNEY,Software,ES&S,Election Reporting Mana ger (ERM),7.1.2.1,0
+KLEBERG,Electronic Ballot Marker,ES&S,AutoMARK Voter Assist Terminal,1.1,25
+KLEBERG,Optical Scan (not including ADA units),ES&S,Model 100,5.2.1.0,38
+KLEBERG,Software,ES&S,Election Reporting Mana ger (ERM),7.1.2.1,0
+KNOX,Electronic Ballot Marker,ES&S,AutoMARK Voter Assist Terminal,1.1,6
+KNOX,Optical Scan (not including ADA units),ES&S,Model 100,5.2.1.0,1
+LA SALLE,DRE (not including ADA units),Hart,eSlate,4.2.13,7
+LA SALLE,Optical Scan (not including ADA units),Hart,eScan,1.3.14,10
+LA SALLE,Other,Hart,Judges Booth Controller (JBC),4.3.1,0
+LA SALLE,Software,Hart,eCM,1.1.7,0
+LA SALLE,Software,Hart,SERVO,4.2.10,0
+LA SALLE,Software,Hart,Tally,4.3.10,0
+LAMAR,Electronic Ballot Marker,ES&S,AutoMARK Voter Assist Terminal,1.1,38
+LAMAR,Optical Scan (not including ADA units),ES&S,Model 100,5.2.1.0,38
+LAMAR,Software,ES&S,Election Reporting Mana ger (ERM),7.1.2.1,0
+LAMB,Electronic Ballot Marker,ES&S,AutoMARK Voter Assist Terminal,1.1,26
+LAMB,Optical Scan (not including ADA units),ES&S,Model 100,5.2.1.0,2
+LAMPASAS,DRE (not including ADA units),Hart,eSlate,4.2.13,28
+LAVACA,DRE (not including ADA units),ES&S,iVotronic,9.1.6.2,30
+LAVACA,Optical Scan (not including ADA units),ES&S,Model 100,5.2.1.0,23
+LAVACA,Software,ES&S,Election Reporting Mana ger (ERM),7.1.2.1,0
+LAVACA,Software,ES&S,Unity,3.0.1.1,1
+LEE,DRE (not including ADA units),Premier,Accu-Vote TSX,4.6.4,35
+LEE,Other,Premier,Key Card Tool,4.6.1,0
+LEE,Other,Premier,VC Programmer,4.6.1,0
+LEE,Other,Premier,Vote Card Encoder,1.3.2,0
+LEE,Software,Premier,GEMS,1.18.24,0
+LEON,DRE (not including ADA units),ES&S,iVotronic,9.1.6.2,30
+LEON,Optical Scan (not including ADA units),ES&S,Model 100,5.2.1.0,2
+LEON,Software,ES&S,Election Reporting Mana ger (ERM),7.1.2.1,0
+LEON,Software,ES&S,Unity,3.0.1.1,1
+LIBERTY,DRE (not including ADA units),Hart,eSlate,4.2.13,49
+LIBERTY,Optical Scan (not including ADA units),Hart,eScan,1.3.14,42
+LIBERTY,Other,Hart,Judges Booth Controller (JBC),4.3.1,0
+LIBERTY,Software,Hart,BOSS,4.2.13,0
+LIBERTY,Software,Hart,eCM,1.1.7,0
+LIBERTY,Software,Hart,SERVO,4.2.10,0
+LIBERTY,Software,Hart,Tally,4.3.10,0
+LIMESTONE,DRE (not including ADA units),ES&S,iVotronic,9.1.6.2,64
+LIMESTONE,Optical Scan (not including ADA units),ES&S,Model 100,5.2.1.0,1
+LIMESTONE,Software,ES&S,Election Reporting Mana ger (ERM),7.1.2.1,0
+LIMESTONE,Software,ES&S,Unity,3.0.1.1,1
+LIPSCOMB,DRE (not including ADA units),Hart,eSlate,4.2.13,8
+LIPSCOMB,Optical Scan (not including ADA units),Hart,eScan,1.3.14,1
+LIPSCOMB,Other,Hart,Judges Booth Controller (JBC),4.3.1,0
+LIPSCOMB,Software,Hart,eCM,1.1.7,0
+LIPSCOMB,Software,Hart,SERVO,4.2.10,0
+LIPSCOMB,Software,Hart,Tally,4.3.10,0
+LIVE OAK,Electronic Ballot Marker,ES&S,AutoMARK Voter Assist Terminal,1.1,15
+LIVE OAK,Optical Scan (not including ADA units),ES&S,Model 100,5.2.1.0,15
+LIVE OAK,Software,ES&S,Election Reporting Mana ger (ERM),7.1.2.1,0
+LIVE OAK,Software,ES&S,Unity,3.0.1.1,1
+LLANO,DRE (not including ADA units),Hart,eSlate,6.2.1,41
+LLANO,Other,Hart,Ballot Now Scanner,0,1
+LLANO,Other,Hart,Judges Booth Controller (JBC),4.3.1,0
+LLANO,Software,Hart,Ballot Now,3.3.11,0
+LLANO,Software,Hart,BOSS,4.3.13,0
+LLANO,Software,Hart,eCM,1.1.7,0
+LLANO,Software,Hart,SERVO,4.2.10,0
+LLANO,Software,Hart,Tally,4.3.10,0
+LOVING,Electronic Ballot Marker,ES&S,AutoMARK Voter Assist Terminal,1,5
+LOVING,Optical Scan (not including ADA units),ES&S,Model 100,5.0.0.0,1
+LUBBOCK,DRE (not including ADA units),Hart,eSlate,4.2.13,684
+LUBBOCK,Other,Hart,Ballot Now Scanner,0,1
+LUBBOCK,Other,Hart,Judges Booth Controller (JBC),4.3.1,0
+LUBBOCK,Software,Hart,Ballot Now,3.3.11,0
+LUBBOCK,Software,Hart,BOSS,4.3.13,0
+LUBBOCK,Software,Hart,SERVO,4.2.10,0
+LUBBOCK,Software,Hart,Tally,4.3.10,0
+LYNN,Electronic Ballot Marker,ES&S,AutoMARK Voter Assist Terminal,1.1,15
+LYNN,Optical Scan (not including ADA units),ES&S,Model 100,5.2.1.0,11
+LYNN,Software,ES&S,Election Reporting Mana ger (ERM),7.1.2.1,0
+MADISON,DRE (not including ADA units),Hart,eSlate,4.2.13,19
+MADISON,Optical Scan (not including ADA units),Hart,eScan,1.3.14,1
+MADISON,Other,Hart,Judges Booth Controller (JBC),4.3.1,0
+MADISON,Software,Hart,eCM,1.1.7,0
+MADISON,Software,Hart,SERVO,4.2.10,0
+MADISON,Software,Hart,Tally,4.3.10,0
+MARION,DRE (not including ADA units),Hart,eSlate,4.2.13,33
+MARION,Optical Scan (not including ADA units),Hart,eScan,1.3.14,2
+MARION,Other,Hart,Judges Booth Controller (JBC),4.3.1,0
+MARION,Software,Hart,eCM,1.1.7,0
+MARION,Software,Hart,SERVO,4.2.10,0
+MARION,Software,Hart,Tally,4.3.10,0
+MARTIN,DRE (not including ADA units),Hart,eSlate,6.2.1,18
+MARTIN,Other,Hart,Judges Booth Controller (JBC),4.3.1,0
+MARTIN,Software,Hart,SERVO,4.2.10,0
+MARTIN,Software,Hart,Tally,4.3.10,0
+MASON,Electronic Ballot Marker,ES&S,AutoMARK Voter Assist Terminal,1.1,5
+MASON,Optical Scan (not including ADA units),ES&S,Model 650,2.1.0.0,1
+MATAGORDA,Electronic Ballot Marker,ES&S,AutoMARK Voter Assist Terminal,1.1,24
+MATAGORDA,Optical Scan (not including ADA units),ES&S,Model 650,2.1.0.0,1
+MAVERICK,Electronic Ballot Marker,ES&S,AutoMARK Voter Assist Terminal,1.1,15
+MAVERICK,Optical Scan (not including ADA units),ES&S,Model 650,2.1.0.0,1
+MCCULLOCH,DRE (not including ADA units),Hart,eSlate,6.2.1,6
+MCCULLOCH,Optical Scan (not including ADA units),Hart,eScan,1.3.14,8
+MCCULLOCH,Other,Hart,Judges Booth Controller (JBC),4.3.1,0
+MCCULLOCH,Software,Hart,eCM,1.1.7,0
+MCCULLOCH,Software,Hart,SERVO,4.2.10,0
+MCCULLOCH,Software,Hart,Tally,4.3.10,0
+MCLENNAN,DRE (not including ADA units),Hart,eSlate,4.2.13,284
+MCLENNAN,Other,Hart,Ballot Now Scanner,0,1
+MCLENNAN,Other,Hart,Judges Booth Controller (JBC),4.3.1,0
+MCLENNAN,Software,Hart,Ballot Now,3.3.11,0
+MCLENNAN,Software,Hart,BOSS,4.3.13,0
+MCLENNAN,Software,Hart,SERVO,4.2.10,0
+MCLENNAN,Software,Hart,Tally,4.3.10,0
+MCMULLEN,Electronic Ballot Marker,ES&S,AutoMARK Voter Assist Terminal,1.1,6
+MEDINA,DRE (not including ADA units),Hart,eSlate,4.2.13,75
+MEDINA,Optical Scan (not including ADA units),Hart,eScan,1.3.14,32
+MEDINA,Other,Hart,Ballot Now Scanner,0,1
+MEDINA,Other,Hart,Judges Booth Controller (JBC),4.3.1,0
+MEDINA,Software,Hart,Ballot Now,3.3.11,0
+MEDINA,Software,Hart,BOSS,4.3.13,0
+MEDINA,Software,Hart,eCM,1.1.7,0
+MEDINA,Software,Hart,SERVO,4.2.10,0
+MEDINA,Software,Hart,Tally,4.3.10,0
+MENARD,Optical Scan (not including ADA units),Hart,eScan,1.3.14,1
+MENARD,Other,Hart,Judges Booth Controller (JBC),4.3.1,0
+MENARD,Software,Hart,eCM,1.1.7,0
+MENARD,Software,Hart,SERVO,4.2.10,0
+MENARD,Software,Hart,Tally,4.3.10,0
+MIDLAND,DRE (not including ADA units),ES&S,iVotronic,9.1.6.2,220
+MIDLAND,Optical Scan (not including ADA units),ES&S,Model 650,2.1.0.0,2
+MIDLAND,Software,ES&S,Ballot on Demand (BOD),7.4.2.0,0
+MIDLAND,Software,ES&S,Election Reporting Mana ger (ERM),7.1.2.1,0
+MILAM,DRE (not including ADA units),Hart,eSlate,4.2.13,44
+MILAM,Other,Hart,Ballot Now Scanner,0,1
+MILAM,Other,Hart,Judges Booth Controller (JBC),4.3.1,0
+MILAM,Software,Hart,Ballot Now,3.3.11,0
+MILAM,Software,Hart,BOSS,4.3.13,0
+MILAM,Software,Hart,SERVO,4.2.10,0
+MILAM,Software,Hart,Tally,4.3.10,0
+MILLS,DRE (not including ADA units),Hart,eSlate,4.1.3,2
+MILLS,Optical Scan (not including ADA units),Hart,eScan,1.2.0,8
+MILLS,Other,Hart,Judges Booth Controller (JBC),4.1.3,0
+MILLS,Software,Hart,eCM,1.1.7,0
+MILLS,Software,Hart,SERVO,4.1.6,0
+MILLS,Software,Hart,Tally,4.2.8,0
+MITCHELL,Electronic Ballot Marker,ES&S,AutoMARK Voter Assist Terminal,1.1,8
+MITCHELL,Optical Scan (not including ADA units),ES&S,Model 650,2.1.0.0,1
+MITCHELL,Software,ES&S,Election Reporting Mana ger (ERM),7.1.2.1,0
+MONTAGUE,DRE (not including ADA units),ES&S,iVotronic,9.1.6.2,48
+MONTAGUE,Optical Scan (not including ADA units),ES&S,Model 100,5.2.1.0,1
+MONTAGUE,Software,ES&S,Election Reporting Mana ger (ERM),7.1.2.1,0
+MONTAGUE,Software,ES&S,Unity,3.0.1.1,1
+MONTGOMERY,DRE (not including ADA units),Hart,eSlate,4.2.13,800
+MONTGOMERY,Optical Scan (not including ADA units),Hart,Ballot Now Scanner,0,2
+MONTGOMERY,Other,Hart,Judges Booth Controller (JBC),4.3.1,0
+MONTGOMERY,Software,Hart,Ballot Now,3.3.11,0
+MONTGOMERY,Software,Hart,BOSS,4.3.13,0
+MONTGOMERY,Software,Hart,eCM,1.1.7,0
+MONTGOMERY,Software,Hart,SERVO,4.2.10,0
+MONTGOMERY,Software,Hart,Tally,4.3.10,0
+MOORE,DRE (not including ADA units),ES&S,iVotronic,9.1.6.2,32
+MOORE,Optical Scan (not including ADA units),ES&S,Model 100,5.2.1.0,8
+MOORE,Software,ES&S,Election Reporting Mana ger (ERM),7.1.2.1,0
+MOORE,Software,ES&S,Unity,3.0.1.1,1
+MORRIS,DRE (not including ADA units),ES&S,iVotronic,9.1.6.2,14
+MORRIS,Optical Scan (not including ADA units),ES&S,Model 100,5.2.1.0,14
+MORRIS,Software,ES&S,Election Reporting Mana ger (ERM),7.1.2.1,0
+MORRIS,Software,ES&S,Unity,3.0.1.1,1
+MOTLEY,DRE (not including ADA units),Hart,eSlate,6.2.1,7
+MOTLEY,Other,Hart,Judges Booth Controller (JBC),4.1.3,0
+MOTLEY,Software,Hart,eCM,1.1.7,0
+MOTLEY,Software,Hart,SERVO,4.1.6,0
+MOTLEY,Software,Hart,Tally,4.2.8,0
+NACOGDOCHES,DRE (not including ADA units),Hart,eSlate,4.1.3,33
+NACOGDOCHES,Optical Scan (not including ADA units),Hart,eScan,1.2.0,32
+NACOGDOCHES,Other,Hart,Judges Booth Controller (JBC),4.1.3,0
+NACOGDOCHES,Software,Hart,eCM,1.1.7,0
+NACOGDOCHES,Software,Hart,SERVO,4.1.6,0
+NACOGDOCHES,Software,Hart,Tally,4.2.8,0
+NAVARRO,DRE (not including ADA units),ES&S,iVotronic,9.1.6.2,129
+NAVARRO,Optical Scan (not including ADA units),ES&S,Model 100,5.2.1.0,4
+NAVARRO,Software,ES&S,Election Reporting Mana ger (ERM),7.1.2.1,0
+NAVARRO,Software,ES&S,Unity,3.0.1.1,1
+NEWTON,Electronic Ballot Marker,ES&S,AutoMARK Voter Assist Terminal,1.1,27
+NEWTON,Optical Scan (not including ADA units),ES&S,Model 650,2.1.0.0,1
+NOLAN,Electronic Ballot Marker,ES&S,AutoMARK Voter Assist Terminal,1.1,13
+NOLAN,Optical Scan (not including ADA units),ES&S,Model 100,5.2.1.0,12
+NOLAN,Software,ES&S,Election Reporting Mana ger (ERM),7.1.2.1,0
+NOLAN,Software,ES&S,Unity,3.0.1.1,1
+NUECES,DRE (not including ADA units),Hart,eSlate,4.1.3,8
+NUECES,DRE (not including ADA units),Hart,eSlate,4.2.13,457
+NUECES,Optical Scan (not including ADA units),Hart,Ballot Now Scanner,0,4
+NUECES,Other,Hart,Judges Booth Controller (JBC),4.3.1,0
+NUECES,Software,Hart,Ballot Now,3.3.11,0
+NUECES,Software,Hart,BOSS,4.3.13,0
+NUECES,Software,Hart,SERVO,4.2.10,0
+NUECES,Software,Hart,Tally,4.3.10,0
+OCHILTREE,Electronic Ballot Marker,ES&S,AutoMARK Voter Assist Terminal,1.1,5
+OCHILTREE,Optical Scan (not including ADA units),ES&S,Model 100,5.2.1.0,5
+OCHILTREE,Software,ES&S,Election Reporting Mana ger (ERM),7.1.2.1,0
+OCHILTREE,Software,ES&S,Unity,3.0.1.1,1
+OLDHAM,Electronic Ballot Marker,ES&S,AutoMARK Voter Assist Terminal,1.1,6
+OLDHAM,Optical Scan (not including ADA units),ES&S,Model 100,5.2.1.0,6
+OLDHAM,Software,ES&S,Election Reporting Mana ger (ERM),7.1.2.1,0
+OLDHAM,Software,ES&S,Unity,3.0.1.1,1
+ORANGE,Electronic Ballot Marker,ES&S,AutoMARK Voter Assist Terminal,1.1,36
+ORANGE,Optical Scan (not including ADA units),ES&S,Model 650,2.1.0.0,1
+PALO PINTO,DRE (not including ADA units),ES&S,iVotronic,9.1.6.2,40
+PALO PINTO,Optical Scan (not including ADA units),ES&S,Model 100,5.2.1.0,3
+PALO PINTO,Software,ES&S,Election Reporting Mana ger (ERM),7.1.2.1,0
+PALO PINTO,Software,ES&S,Unity,3.0.1.1,1
+PANOLA,Electronic Ballot Marker,ES&S,AutoMARK Voter Assist Terminal,1,36
+PANOLA,Optical Scan (not including ADA units),ES&S,Model 100,5.2.1.0,22
+PARKER,DRE (not including ADA units),Hart,eSlate,4.2.13,290
+PARKER,Other,Hart,Ballot Now Scanner,0,1
+PARKER,Other,Hart,Judges Booth Controller (JBC),4.3.1,0
+PARKER,Software,Hart,Ballot Now,3.3.11,0
+PARKER,Software,Hart,eCM,1.1.7,0
+PARKER,Software,Hart,SERVO,4.2.10,0
+PARKER,Software,Hart,Tally,4.3.10,0
+PARMER,Electronic Ballot Marker,ES&S,AutoMARK Voter Assist Terminal,1.1,10
+PARMER,Optical Scan (not including ADA units),ES&S,Model 650,2.1.0.0,1
+PECOS,Electronic Ballot Marker,ES&S,AutoMARK Voter Assist Terminal,1.1,10
+PECOS,Optical Scan (not including ADA units),ES&S,Model 650,2.1.0.0,1
+POLK,DRE (not including ADA units),ES&S,iVotronic,9.1.6.2,20
+POLK,Optical Scan (not including ADA units),ES&S,Model 650,2.1.0.0,1
+POLK,Software,ES&S,Ballot on Demand (BOD),7.2.0.0,0
+POLK,Software,ES&S,Election Reporting Mana ger (ERM),7.1.2.1,0
+POLK,Software,ES&S,Unity,3.0.1.1,1
+POTTER,DRE (not including ADA units),ES&S,iVotronic,9.1.6.2,145
+POTTER,Optical Scan (not including ADA units),ES&S,Model 650,2.1.0.0,1
+POTTER,Other,ES&S,PEB,1.07,0
+POTTER,Software,ES&S,Election Reporting Mana ger (ERM),7.1.2.1,0
+POTTER,Software,ES&S,Unity,3.0.1.1,1
+PRESIDIO,DRE (not including ADA units),ES&S,iVotronic,9.1.6.2,32
+PRESIDIO,Software,ES&S,Election Reporting Mana ger (ERM),7.1.2.1,0
+PRESIDIO,Software,ES&S,Unity,3.0.1.1,1
+RAINS,DRE (not including ADA units),Hart,eSlate,6.2.1,8
+RAINS,Optical Scan (not including ADA units),Hart,eScan,1.3.14,2
+RAINS,Other,Hart,Judges Booth Controller (JBC),4.3.1,0
+RAINS,Software,Hart,eCM,1.1.7,0
+RAINS,Software,Hart,SERVO,4.1.6,0
+RAINS,Software,Hart,Tally,4.2.8,0
+RANDALL,DRE (not including ADA units),Hart,eSlate,4.2.13,202
+RANDALL,Optical Scan (not including ADA units),Hart,eScan,1.3.14,2
+RANDALL,Other,Hart,Judges Booth Controller (JBC),4.3.1,0
+RANDALL,Software,Hart,Ballot Now,3.3.11,0
+RANDALL,Software,Hart,BOSS,4.3.13,0
+RANDALL,Software,Hart,eCM,1.1.7,0
+RANDALL,Software,Hart,SERVO,4.2.10,0
+RANDALL,Software,Hart,Tally,4.3.10,0
+REAGAN,DRE (not including ADA units),Hart,eSlate,4.2.13,5
+REAGAN,Optical Scan (not including ADA units),Hart,eScan,1.3.14,5
+REAGAN,Other,Hart,Judges Booth Controller (JBC),4.3.1,0
+REAGAN,Software,Hart,eCM,1.1.7,0
+REAGAN,Software,Hart,SERVO,4.2.10,0
+REAGAN,Software,Hart,Tally,4.3.10,0
+REAL,Electronic Ballot Marker,ES&S,AutoMARK Voter Assist Terminal,1.1,6
+REAL,Optical Scan (not including ADA units),ES&S,Model 100,5.2.1.0,6
+REAL,Software,ES&S,Election Reporting Mana ger (ERM),7.1.2.1,0
+REAL,Software,ES&S,Unity,3.0.1.1,1
+RED RIVER,DRE (not including ADA units),Hart,eSlate,4.2.13,32
+RED RIVER,Optical Scan (not including ADA units),Hart,eScan,1.3.14,7
+RED RIVER,Other,Hart,Ballot Now Scanner,0,1
+RED RIVER,Other,Hart,Judges Booth Controller (JBC),4.3.1,0
+RED RIVER,Software,Hart,Ballot Now,3.3.11,0
+RED RIVER,Software,Hart,eCM,1.1.7,0
+RED RIVER,Software,Hart,SERVO,4.2.10,0
+RED RIVER,Software,Hart,Tally,4.3.10,0
+REEVES,Electronic Ballot Marker,ES&S,AutoMARK Voter Assist Terminal,1.1,12
+REEVES,Optical Scan (not including ADA units),ES&S,Model 100,5.2.1.0,12
+REEVES,Optical Scan (not including ADA units),ES&S,Model 650,2.1.0.0,1
+REEVES,Software,ES&S,Election Reporting Mana ger (ERM),7.1.2.1,0
+REEVES,Software,ES&S,Unity,3.0.1.1,1
+REFUGIO,DRE (not including ADA units),Hart,eSlate,4.2.13,16
+REFUGIO,Optical Scan (not including ADA units),Hart,eScan,1.3.14,1
+REFUGIO,Other,Hart,Judges Booth Controller (JBC),4.3.1,0
+REFUGIO,Software,Hart,eCM,1.1.7,0
+REFUGIO,Software,Hart,SERVO,4.2.10,0
+REFUGIO,Software,Hart,Tally,4.3.10,0
+ROBERTS,DRE (not including ADA units),Hart,eSlate,4.1.3,6
+ROBERTS,Other,Hart,Judges Booth Controller (JBC),4.1.3,0
+ROBERTS,Software,Hart,eCM,1.1.7,0
+ROBERTS,Software,Hart,SERVO,4.1.6,0
+ROBERTS,Software,Hart,Tally,4.2.8,0
+ROBERTSON,Electronic Ballot Marker,ES&S,AutoMARK Voter Assist Terminal,1.1,22
+ROBERTSON,Optical Scan (not including ADA units),ES&S,Model 100,5.2.1.0,18
+ROBERTSON,Software,ES&S,Election Reporting Mana ger (ERM),7.1.2.1,0
+ROBERTSON,Software,ES&S,Unity,3.0.1.1,1
+ROCKWALL,DRE (not including ADA units),ES&S,iVotronic,9.1.6.2,19
+ROCKWALL,Optical Scan (not including ADA units),ES&S,Model 100,5.2.1.0,48
+ROCKWALL,Software,ES&S,Election Reporting Mana ger (ERM),7.1.2.1,0
+ROCKWALL,Software,ES&S,Hardware Program Manager (HPM),5.2.4.0,0
+ROCKWALL,Software,ES&S,iVotronic Image Manager (iVIM),2.0.1.0,0
+ROCKWALL,Software,ES&S,Unity,3.0.1.1,1
+RUNNELS,DRE (not including ADA units),Hart,eSlate,6.2.1,10
+RUNNELS,Optical Scan (not including ADA units),Hart,eScan,1.2.0,2
+RUNNELS,Other,Hart,Judges Booth Controller (JBC),4.3.1,0
+RUNNELS,Software,Hart,SERVO,4.2.10,0
+RUNNELS,Software,Hart,Tally,4.3.10,0
+RUSK,DRE (not including ADA units),ES&S,iVotronic,9.1.6.2,100
+RUSK,Optical Scan (not including ADA units),ES&S,Model 650,2.1.0.0,1
+RUSK,Software,ES&S,Election Reporting Mana ger (ERM),7.1.2.1,0
+RUSK,Software,ES&S,Unity,3.0.1.1,1
+SABINE,Electronic Ballot Marker,ES&S,AutoMARK Voter Assist Terminal,1.1,11
+SABINE,Optical Scan (not including ADA units),ES&S,Model 100,5.2.1.0,10
+SABINE,Software,ES&S,AutoMARK Information Management System (AIMS),1.2.18,0
+SABINE,Software,ES&S,Election Reporting Mana ger (ERM),7.1.2.1,0
+SABINE,Software,ES&S,Unity,3.0.1.1,1
+SAN AUGUSTINE,Electronic Ballot Marker,ES&S,AutoMARK Voter Assist Terminal,1.1,12
+SAN AUGUSTINE,Optical Scan (not including ADA units),ES&S,Model 100,5.2.1.0,14
+SAN AUGUSTINE,Software,ES&S,Election Reporting Mana ger (ERM),7.1.2.1,0
+SAN AUGUSTINE,Software,ES&S,Unity,3.0.1.1,1
+SAN JACINTO,DRE (not including ADA units),ES&S,iVotronic,9.1.6.2,38
+SAN JACINTO,Optical Scan (not including ADA units),ES&S,Model 100,5.2.1.0,1
+SAN JACINTO,Software,ES&S,Election Reporting Mana ger (ERM),7.1.2.1,0
+SAN JACINTO,Software,ES&S,Unity,3.0.1.1,1
+SAN PATRICIO,DRE (not including ADA units),Hart,eSlate,4.2.13,48
+SAN PATRICIO,Optical Scan (not including ADA units),Hart,eScan,1.3.14,47
+SAN PATRICIO,Other,Hart,Judges Booth Controller (JBC),4.3.1,0
+SAN PATRICIO,Software,Hart,Ballot Now,3.3.11,0
+SAN PATRICIO,Software,Hart,eCM,1.1.7,0
+SAN PATRICIO,Software,Hart,SERVO,4.2.10,0
+SAN PATRICIO,Software,Hart,Tally,4.3.10,0
+SAN SABA,Electronic Ballot Marker,ES&S,AutoMARK Voter Assist Terminal,1,8
+SAN SABA,Optical Scan (not including ADA units),ES&S,Model 650,1.2.0.0,1
+SCHLEICHER,Electronic Ballot Marker,ES&S,AutoMARK Voter Assist Terminal,1.1,6
+SCHLEICHER,Optical Scan (not including ADA units),ES&S,Model 100,5.2.1.0,6
+SCHLEICHER,Software,ES&S,Election Reporting Mana ger (ERM),7.1.2.1,0
+SCHLEICHER,Software,ES&S,Unity,3.0.1.1,1
+SCURRY,DRE (not including ADA units),ES&S,iVotronic,9.1.6.2,50
+SCURRY,Optical Scan (not including ADA units),ES&S,Model 100,5.2.1.0,1
+SCURRY,Software,ES&S,Election Reporting Mana ger (ERM),7.1.2.1,0
+SCURRY,Software,ES&S,Unity,3.0.1.1,1
+SHACKELFORD,DRE (not including ADA units),Hart,eSlate,4.2.13,8
+SHACKELFORD,Other,Hart,Judges Booth Controller (JBC),4.3.1,0
+SHACKELFORD,Software,Hart,eCM,1.1.7,0
+SHACKELFORD,Software,Hart,SERVO,4.2.10,0
+SHACKELFORD,Software,Hart,Tally,4.3.10,0
+SHELBY,Electronic Ballot Marker,ES&S,AutoMARK Voter Assist Terminal,1.1,15
+SHELBY,Optical Scan (not including ADA units),ES&S,Model 100,5.2.1.0,18
+SHELBY,Software,ES&S,Election Reporting Mana ger (ERM),7.1.2.1,0
+SHELBY,Software,ES&S,Unity,3.0.1.1,1
+SHERMAN,DRE (not including ADA units),Premier,Accu-Vote TSX,4.6.4,13
+SHERMAN,Optical Scan (not including ADA units),Premier,Accu-Vote OS,1.9.4,1
+SHERMAN,Other,Premier,Key Card Tool,1.0.1,0
+SHERMAN,Other,Premier,VC Programmer,4.1.11,0
+SHERMAN,Other,Premier,Vote Card Encoder,1.3.2,0
+SMITH,DRE (not including ADA units),ES&S,iVotronic,8.0.1.0,377
+SMITH,Optical Scan (not including ADA units),ES&S,Model 650,1.2.0.0,1
+SMITH,Software,ES&S,Ballot Image Manager (BIM),7.2.0.0,0
+SMITH,Software,ES&S,Ballot on Demand (BOD),7.2.0.0,0
+SMITH,Software,ES&S,Data Acquistion Manager (DAM),5.0.3.1,0
+SMITH,Software,ES&S,Election Data Manager (EDM),7.2.1.0,0
+SMITH,Software,ES&S,Election Reporting Mana ger (ERM),6.4.3.3,0
+SMITH,Software,ES&S,iVotronic Image Manager (iVIM),1.2.3.0,0
+SMITH,Software,ES&S,Unity,2.4.3.1,1
+SOMERVELL,Electronic Ballot Marker,ES&S,AutoMARK Voter Assist Terminal,1.1,7
+SOMERVELL,Optical Scan (not including ADA units),ES&S,Model 100,5.2.1.0,7
+SOMERVELL,Software,ES&S,Election Reporting Mana ger (ERM),7.1.2.1,0
+SOMERVELL,Software,ES&S,Unity,3.0.1.1,1
+STARR,DRE (not including ADA units),ES&S,iVotronic,9.1.6.2,24
+STARR,Optical Scan (not including ADA units),ES&S,Model 100,5.2.1.0,20
+STARR,Software,ES&S,Election Reporting Mana ger (ERM),7.1.2.1,0
+STARR,Software,ES&S,Unity,3.0.1.1,1
+STEPHENS,Electronic Ballot Marker,ES&S,AutoMARK Voter Assist Terminal,1.1,7
+STEPHENS,Optical Scan (not including ADA units),ES&S,Model 650,2.1.0.0,1
+STERLING,DRE (not including ADA units),Hart,eSlate,6.2.1,6
+STERLING,Other,Hart,Judges Booth Controller (JBC),4.3.1,0
+STERLING,Software,Hart,SERVO,4.2.10,0
+STERLING,Software,Hart,Tally,4.3.10,0
+STONEWALL,Electronic Ballot Marker,ES&S,AutoMARK Voter Assist Terminal,1.1,9
+STONEWALL,Optical Scan (not including ADA units),ES&S,Model 100,5.2.1.0,5
+STONEWALL,Software,ES&S,Election Reporting Mana ger (ERM),7.1.2.1,0
+STONEWALL,Software,ES&S,Unity,3.0.1.1,1
+SUTTON,Electronic Ballot Marker,ES&S,AutoMARK Voter Assist Terminal,1.1,5
+SUTTON,Optical Scan (not including ADA units),ES&S,Model 100,5.2.1.0,5
+SUTTON,Software,ES&S,Election Reporting Mana ger (ERM),7.1.2.1,0
+SUTTON,Software,ES&S,Unity,3.0.1.1,1
+SWISHER,DRE (not including ADA units),ES&S,iVotronic,9.1.6.2,1
+SWISHER,Optical Scan (not including ADA units),ES&S,Model 100,5.2.1.0,2
+SWISHER,Software,ES&S,Election Reporting Mana ger (ERM),7.1.2.1,0
+SWISHER,Software,ES&S,Unity,3.0.1.1,1
+TARRANT,DRE (not including ADA units),Hart,eSlate,4.2.13,644
+TARRANT,Optical Scan (not including ADA units),Hart,eScan,1.3.14,500
+TARRANT,Other,Hart,Ballot Now Scanner,0,2
+TARRANT,Other,Hart,Judges Booth Controller (JBC),4.3.1,0
+TARRANT,Software,Hart,Ballot Now,3.3.11,0
+TARRANT,Software,Hart,BOSS,4.3.13,0
+TARRANT,Software,Hart,eCM,1.1.7,0
+TARRANT,Software,Hart,Rally,2.3.7,0
+TARRANT,Software,Hart,SERVO,4.2.10,0
+TARRANT,Software,Hart,Tally,4.3.10,0
+TAYLOR,DRE (not including ADA units),Hart,eSlate,4.2.13,210
+TAYLOR,Other,Hart,Ballot Now Scanner,0,2
+TAYLOR,Other,Hart,Judges Booth Controller (JBC),4.3.1,0
+TAYLOR,Software,Hart,Ballot Now,3.3.11,0
+TAYLOR,Software,Hart,BOSS,4.3.13,0
+TAYLOR,Software,Hart,eCM,1.1.7,0
+TAYLOR,Software,Hart,SERVO,4.2.10,0
+TAYLOR,Software,Hart,Tally,4.3.10,0
+TERRELL,Electronic Ballot Marker,ES&S,AutoMARK Voter Assist Terminal,1.1,5
+TERRELL,Optical Scan (not including ADA units),ES&S,Model 100,5.2.1.0,5
+TERRELL,Software,ES&S,Unity,3.0.1.1,1
+TERRY,Electronic Ballot Marker,ES&S,AutoMARK Voter Assist Terminal,1.1,9
+TERRY,Optical Scan (not including ADA units),ES&S,Model 650,2.1.0.0,1
+THROCKMORTON,DRE (not including ADA units),Hart,eSlate,4.1.3,1
+THROCKMORTON,Other,Hart,Judges Booth Controller (JBC),4.1.3,0
+THROCKMORTON,Software,Hart,SERVO,4.1.6,0
+THROCKMORTON,Software,Hart,Tally,4.2.8,0
+TITUS,Electronic Ballot Marker,ES&S,AutoMARK Voter Assist Terminal,1.1,22
+TITUS,Optical Scan (not including ADA units),ES&S,Model 100,5.2.1.0,22
+TITUS,Optical Scan (not including ADA units),ES&S,Model 650,2.1.0.0,1
+TITUS,Software,ES&S,Election Reporting Mana ger (ERM),7.1.2.1,0
+TITUS,Software,ES&S,Unity,3.0.1.1,1
+TOM GREEN,DRE (not including ADA units),Hart,eSlate,4.2.13,74
+TOM GREEN,Optical Scan (not including ADA units),Hart,eScan,1.3.14,61
+TOM GREEN,Other,Hart,Ballot Now Scanner,0,2
+TOM GREEN,Other,Hart,Judges Booth Controller (JBC),4.3.1,0
+TOM GREEN,Software,Hart,Ballot Now,3.3.11,0
+TOM GREEN,Software,Hart,BOSS,4.3.13,0
+TOM GREEN,Software,Hart,eCM,1.1.7,0
+TOM GREEN,Software,Hart,SERVO,4.2.10,0
+TOM GREEN,Software,Hart,Tally,4.3.10,0
+TRAVIS,DRE (not including ADA units),Hart,eSlate,4.1.3,1725
+TRAVIS,Other,Hart,Ballot Now Scanner,0,2
+TRAVIS,Other,Hart,Judges Booth Controller (JBC),4.1.3,0
+TRAVIS,Software,Hart,Ballot Now,3.2.4,0
+TRAVIS,Software,Hart,BOSS,4.2.13,0
+TRAVIS,Software,Hart,eCM,1.1.7,0
+TRAVIS,Software,Hart,SERVO,4.1.6,0
+TRAVIS,Software,Hart,Tally,4.2.8,0
+TRINITY,Electronic Ballot Marker,ES&S,AutoMARK Voter Assist Terminal,1.1,22
+TRINITY,Optical Scan (not including ADA units),ES&S,Model 650,2.1.0.0,1
+TYLER,Electronic Ballot Marker,ES&S,AutoMARK Voter Assist Terminal,1.1,20
+TYLER,Optical Scan (not including ADA units),ES&S,Model 100,5.2.1.0,21
+TYLER,Software,ES&S,Election Reporting Mana ger (ERM),7.1.2.1,0
+TYLER,Software,ES&S,Unity,3.0.1.1,1
+UPSHUR,DRE (not including ADA units),Hart,eSlate,4.2.13,24
+UPSHUR,Optical Scan (not including ADA units),Hart,eScan,1.3.14,23
+UPSHUR,Other,Hart,Ballot Now Scanner,0,1
+UPSHUR,Other,Hart,Judges Booth Controller (JBC),4.3.1,0
+UPSHUR,Software,Hart,Ballot Now,3.3.11,0
+UPSHUR,Software,Hart,BOSS,4.3.13,0
+UPSHUR,Software,Hart,eCM,1.1.7,0
+UPSHUR,Software,Hart,SERVO,4.2.10,0
+UPSHUR,Software,Hart,Tally,4.3.10,0
+UPTON,DRE (not including ADA units),ES&S,iVotronic,9.1.6.2,16
+UPTON,Optical Scan (not including ADA units),ES&S,Model 100,5.2.1.0,1
+UPTON,Software,ES&S,Election Reporting Mana ger (ERM),7.1.2.1,0
+UPTON,Software,ES&S,Unity,3.0.1.1,1
+UVALDE,DRE (not including ADA units),Hart,eSlate,4.1.3,17
+UVALDE,DRE (not including ADA units),Hart,eSlate,4.1.3,17
+UVALDE,Optical Scan (not including ADA units),Hart,eScan,1.2.0,19
+UVALDE,Optical Scan (not including ADA units),Hart,eScan,1.2.0,19
+UVALDE,Other,Hart,Judges Booth Controller (JBC),4.1.3,0
+UVALDE,Other,Hart,Judges Booth Controller (JBC),4.1.3,0
+UVALDE,Software,Hart,eCM,1.1.7,0
+UVALDE,Software,Hart,eCM,1.1.7,0
+UVALDE,Software,Hart,SERVO,4.1.6,0
+UVALDE,Software,Hart,SERVO,4.1.6,0
+UVALDE,Software,Hart,Tally,4.2.8,0
+UVALDE,Software,Hart,Tally,4.2.8,0
+VAL VERDE,Electronic Ballot Marker,ES&S,AutoMARK Voter Assist Terminal,1.1,22
+VAL VERDE,Optical Scan (not including ADA units),ES&S,Model 100,5.2.1.0,23
+VAL VERDE,Optical Scan (not including ADA units),ES&S,Model 650,2.1.0.0,1
+VAL VERDE,Software,ES&S,Election Reporting Mana ger (ERM),7.1.2.1,0
+VAL VERDE,Software,ES&S,Unity,3.0.1.1,1
+VAN ZANDT,Electronic Ballot Marker,ES&S,AutoMARK Voter Assist Terminal,1.1,30
+VAN ZANDT,Optical Scan (not including ADA units),ES&S,Model 100,5.2.1.0,30
+VAN ZANDT,Optical Scan (not including ADA units),ES&S,Model 650,2.1.0.0,1
+VAN ZANDT,Software,ES&S,Election Reporting Mana ger (ERM),7.1.2.1,0
+VAN ZANDT,Software,ES&S,Unity,3.0.1.1,1
+VICTORIA,DRE (not including ADA units),ES&S,iVotronic,9.1.6.2,152
+VICTORIA,Optical Scan (not including ADA units),ES&S,Model 650,2.1.0.0,1
+VICTORIA,Software,ES&S,Ballot Image Manager (BIM),7.2.0.0,0
+VICTORIA,Software,ES&S,Ballot on Demand (BOD),7.2.0.0,0
+VICTORIA,Software,ES&S,Election Data Manager (EDM),7.4.4.0,0
+VICTORIA,Software,ES&S,Election Reporting Mana ger (ERM),7.1.2.1,0
+VICTORIA,Software,ES&S,Hardware Program Manager (HPM),5.2.4.0,0
+VICTORIA,Software,ES&S,iVotronic Image Manager (iVIM),2.0.1.0,0
+VICTORIA,Software,ES&S,Unity,3.0.1.1,1
+WALKER,Electronic Ballot Marker,ES&S,AutoMARK Voter Assist Terminal,1.1,20
+WALKER,Optical Scan (not including ADA units),ES&S,Model 100,5.2.1.0,24
+WALKER,Software,ES&S,Election Reporting Mana ger (ERM),7.1.2.1,0
+WALKER,Software,ES&S,Unity,3.0.1.1,1
+WALLER,DRE (not including ADA units),Hart,eSlate,4.2.13,78
+WALLER,Other,Hart,Judges Booth Controller (JBC),4.3.1,0
+WALLER,Software,Hart,BOSS,4.3.13,0
+WALLER,Software,Hart,eCM,1.1.7,0
+WALLER,Software,Hart,SERVO,4.2.10,0
+WALLER,Software,Hart,Tally,4.3.10,0
+WARD,Electronic Ballot Marker,ES&S,AutoMARK Voter Assist Terminal,1.1,10
+WARD,Optical Scan (not including ADA units),ES&S,Model 650,2.1.0.0,1
+WASHINGTON,Electronic Ballot Marker,ES&S,AutoMARK Voter Assist Terminal,1.1,38
+WASHINGTON,Optical Scan (not including ADA units),ES&S,Model 650,2.1.0.0,1
+WASHINGTON,Software,ES&S,Election Reporting Mana ger (ERM),7.1.2.1,0
+WEBB,Optical Scan (not including ADA units),ES&S,Model 650,2.1.0.0,3
+WEBB,Software,ES&S,Election Reporting Mana ger (ERM),7.1.2.1,0
+WEBB,Software,ES&S,Unity,3.0.1.1,1
+WHARTON,DRE (not including ADA units),ES&S,iVotronic,9.1.6.2,51
+WHARTON,Optical Scan (not including ADA units),ES&S,Model 650,2.1.0.0,1
+WHARTON,Software,ES&S,Election Reporting Mana ger (ERM),7.1.2.1,0
+WHARTON,Software,ES&S,Unity,3.0.1.1,0
+WHEELER,DRE (not including ADA units),Hart,eSlate,4.2.13,14
+WHEELER,Other,Hart,Judges Booth Controller (JBC),4.3.1,0
+WHEELER,Software,Hart,SERVO,4.1.6,0
+WHEELER,Software,Hart,Tally,4.2.8,0
+WICHITA,DRE (not including ADA units),ES&S,iVotronic,9.1.6.2,195
+WICHITA,Optical Scan (not including ADA units),ES&S,Model 650,2.1.0.0,1
+WICHITA,Software,ES&S,Ballot Image Manager (BIM),7.2.0.0,0
+WICHITA,Software,ES&S,Ballot on Demand (BOD),7.2.0.0,0
+WICHITA,Software,ES&S,Election Data Manager (EDM),7.4.4.0,0
+WICHITA,Software,ES&S,Election Reporting Mana ger (ERM),7.1.2.1,0
+WICHITA,Software,ES&S,Hardware Program Manager (HPM),5.2.4.0,0
+WICHITA,Software,ES&S,iVotronic Image Manager (iVIM),2.0.1.0,0
+WICHITA,Software,ES&S,Unity,3.0.1.1,1
+WILBARGER,DRE (not including ADA units),Hart,eSlate,4.2.13,17
+WILBARGER,Other,Hart,Judges Booth Controller (JBC),4.3.1,0
+WILBARGER,Software,Hart,Ballot Now,3.3.11,0
+WILBARGER,Software,Hart,BOSS,4.3.13,0
+WILBARGER,Software,Hart,eCM,1.1.7,0
+WILBARGER,Software,Hart,SERVO,4.2.10,0
+WILBARGER,Software,Hart,Tally,4.3.10,0
+WILLACY,DRE (not including ADA units),Hart,eSlate,4.2.13,14
+WILLACY,Optical Scan (not including ADA units),Hart,eScan,1.3.14,14
+WILLACY,Other,Hart,Judges Booth Controller (JBC),4.3.1,0
+WILLACY,Software,Hart,eCM,1.1.7,0
+WILLACY,Software,Hart,SERVO,4.2.10,0
+WILLACY,Software,Hart,Tally,4.3.10,0
+WILLIAMSON,DRE (not including ADA units),ES&S,iVotronic,9.1.6.2,667
+WILLIAMSON,Optical Scan (not including ADA units),ES&S,Model 100,5.2.1.0,100
+WILLIAMSON,Optical Scan (not including ADA units),ES&S,Model 650,2.1.0.0,2
+WILLIAMSON,Software,ES&S,Election Reporting Mana ger (ERM),7.1.2.1,0
+WILLIAMSON,Software,ES&S,Unity,3.0.1.1,1
+WILSON,DRE (not including ADA units),Premier,Accu-Vote TSX,4.6.4,29
+WILSON,Optical Scan (not including ADA units),Premier,ACCU-VOTE OS (Model D),1.96.6,29
+WILSON,Other,Premier,VC Programmer,4.6.1,0
+WILSON,Other,Premier,Vote Card Encoder,1.3.2,0
+WILSON,Software,Premier,GEMS,1.18.24,0
+WINKLER,Electronic Ballot Marker,ES&S,AutoMARK Voter Assist Terminal,1.1,10
+WINKLER,Optical Scan (not including ADA units),ES&S,Model 650,2.1.0.0,1
+WINKLER,Software,ES&S,Unity,3.0.1.1,0
+WISE,DRE (not including ADA units),Hart,eSlate,4.2.13,115
+WISE,Other,Hart,Judges Booth Controller (JBC),4.3.1,0
+WISE,Software,Hart,Ballot Now,3.3.11,0
+WISE,Software,Hart,BOSS,4.3.13,0
+WISE,Software,Hart,eCM,1.1.7,0
+WISE,Software,Hart,SERVO,4.2.10,0
+WISE,Software,Hart,Tally,4.3.10,0
+WOOD,DRE (not including ADA units),Hart,eSlate,4.2.13,65
+WOOD,Optical Scan (not including ADA units),Hart,eScan,1.3.14,2
+WOOD,Other,Hart,Judges Booth Controller (JBC),4.3.1,0
+WOOD,Software,Hart,SERVO,4.2.10,1
+WOOD,Software,Hart,Tally,4.3.10,0
+YOAKUM,Electronic Ballot Marker,ES&S,AutoMARK Voter Assist Terminal,1.1,6
+YOAKUM,Optical Scan (not including ADA units),ES&S,Model 100,5.2.1.0,4
+YOAKUM,Software,ES&S,Election Reporting Mana ger (ERM),7.1.2.1,0
+YOUNG,DRE (not including ADA units),Hart,eSlate,4.2.13,40
+YOUNG,Optical Scan (not including ADA units),Hart,eScan,1.3.14,1
+YOUNG,Other,Hart,Judges Booth Controller (JBC),4.3.1,0
+YOUNG,Software,Hart,eCM,1.1.7,0
+YOUNG,Software,Hart,SERVO,4.2.10,0
+YOUNG,Software,Hart,Tally,4.3.10,0
+ZAPATA,DRE (not including ADA units),Hart,eSlate,4.2.13,8
+ZAPATA,Optical Scan (not including ADA units),Hart,eScan,1.3.14,9
+ZAPATA,Other,Hart,Judges Booth Controller (JBC),4.3.1,0
+ZAPATA,Software,Hart,eCM,1.1.7,0
+ZAPATA,Software,Hart,SERVO,4.2.10,0
+ZAPATA,Software,Hart,Tally,4.3.10,0
+ZAVALA,Electronic Ballot Marker,ES&S,AutoMARK Voter Assist Terminal,1.1,8
+ZAVALA,Optical Scan (not including ADA units),ES&S,Model 650,2.1.0.0,1
