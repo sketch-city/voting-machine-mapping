@@ -23,6 +23,11 @@ Our data is helpful, but incomplete. We will need help to:
 - Combine voting machine data with Texas counties shapefile
 - Set up combined data as a service on ArcGIS.com 
 
+### Data Analysis
+- Count of voting machines and average age
+- What counties rely on the most varied tech (different types of voting machines)?
+
+
 ## Useful Links:
 - [Current Vote Texas webform to educate citizens on voting machine availability by county and use](http://www.votetexas.gov/voting/how/)
 - [Open Texas plotting of counties with the state (look here to download GeoJSON or Shapefiles)](https://data.texas.gov/dataset/County-Map/48ag-x9aa)
